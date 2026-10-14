@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+local-settings.json
+.env
+.env.*
+auth.json
+credentials*
+private/
+reports/
+work/
+*.log

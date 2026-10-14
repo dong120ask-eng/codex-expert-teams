@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "roles": [
+    {"id":"team_lead","name":"项目负责人","responsibility":"范围、依赖、委派、进度和最终交付","keywords":[],"skills":["wb-sprint-planning","wb-expert-hub"]},
+    {"id":"product_analyst","name":"产品分析","responsibility":"用户流程、功能范围和可测试验收","keywords":["需求","产品","功能","开发","网页","软件","app"],"skills":["wb-feature-spec","wb-idea-validation"]},
+    {"id":"solution_architect","name":"技术架构","responsibility":"现有系统、模块、接口和数据契约","keywords":["架构","系统","数据库","开发","重构","接口","backend"],"skills":["wb-engineering","cn-software-development"]},
+    {"id":"frontend_engineer","name":"前端实现","responsibility":"界面、交互、响应式和可访问性","keywords":["界面","网页","前端","页面","设计","web","react"],"skills":["wb-frontend-design","wb-ux-copy","wb-webapp-starter"]},
+    {"id":"backend_engineer","name":"后端实现","responsibility":"接口、业务逻辑、数据一致性和错误路径","keywords":["后端","接口","数据库","api","backend","数据处理"],"skills":["wb-backend-implementation","wb-data-analysis","cli-creator"]},
+    {"id":"qa_engineer","name":"独立测试","responsibility":"真实运行主要流程、错误输入和边界","keywords":["测试","开发","修复","重构","软件","网页","接口","验证"],"skills":["wb-task-verification","wb-webapp-testing"]},
+    {"id":"code_reviewer","name":"独立审查","responsibility":"代码缺陷、兼容性和维护风险","keywords":["代码","开发","修复","重构","接口","审查"],"skills":["wb-engineering","wb-project-quality"]},
+    {"id":"delivery_engineer","name":"交付工程","responsibility":"构建、启动、运行说明和交付资料","keywords":["交付","部署","安装","构建","运维","docker","上线","文档"],"skills":["wb-operations-runbook","wb-container-delivery","cn-office-documents"]},
+    {"id":"research_analyst","name":"资料研究","responsibility":"核实来源、比较方案和计算分析","keywords":["研究","调研","分析","数据","竞品","市场"],"skills":["wb-deep-research","wb-market-research","wb-data-analysis"]},
+    {"id":"content_editor","name":"内容编辑","responsibility":"原创正文、脚本、多平台改编和事实核查","keywords":["文章","内容","脚本","视频","文稿","小红书","公众号","办公"],"skills":["wb-content-studio","wb-humanizer","cn-video-production","cn-office-documents"]},
+    {"id":"growth_strategist","name":"营销策略","responsibility":"定位、渠道、转化和效果复盘","keywords":["营销","推广","销售","seo","电商","增长","广告"],"skills":["wb-marketing-toolkit","wb-seo-workflow","cn-ecommerce-ads"]}
+  ]
+}
