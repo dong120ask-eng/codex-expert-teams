@@ -1,0 +1,1820 @@
+{
+  "scope": "447 downloaded WorkBuddy bundles; root plugin license, LICENSE/LICENCE/COPYING/NOTICE files and SKILL.md license declarations; sourceGitHub is not treated as permission",
+  "summary": [
+    {
+      "status": "conditional-root",
+      "count": 2
+    },
+    {
+      "status": "no-license-evidence",
+      "count": 341
+    },
+    {
+      "status": "permissive-manifest-only",
+      "count": 22
+    },
+    {
+      "status": "permissive-root-text",
+      "count": 15
+    },
+    {
+      "status": "restricted-root",
+      "count": 5
+    },
+    {
+      "status": "subcomponent-license-only",
+      "count": 62
+    }
+  ],
+  "packages": [
+    {
+      "package": "a-share-analysis",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ab-experiment-analyst",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "academic-journal-selector",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "accessibility-auditor",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "accounts-payable-agent",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ad-creative-strategist",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "ad-tracking-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "adort-design-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "agent-identity-trust-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "agent-orchestrator",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ai-content-creator-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ai-data-copilot",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ai-engineer",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "ai-humanizer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ai-image-prompt-engineer",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "ai-meeting-notes",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ai-shifu",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ai-shifu-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ai-video-script",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "aicoding-architecture-expert-team",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "aihot",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "aladin-test-design",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "andon-q-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "anti-scam-agent",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "api-dev",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "api-testing-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "apm-performance-expert",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "app-store-optimization-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "arxiv-watcher",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ask-liuxiaopai",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "auto-consultant",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "autonomous-optimization-architect",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "backend-architect",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "baidu-seo-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "behavioral-nudge-engine",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "believe-in-light",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "bidding-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "bilibili-content-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "blockchain-security-auditor",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "book-co-creator",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "brand-guardian",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "brazil-company-query",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "brazil-legal",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "brazil-rfb-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "campus-conversation-coach",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "campus-event-navigator",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "campus-job-search-coach",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "capacity-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "career-broker",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "career-navigator",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "carousel-content-growth-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "cat-network-quality-analyst",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "chaogeek-kongming",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "chaos-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "charity-doc-finance-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "chatcut-video-editor",
+      "status": "conditional-root"
+    },
+    {
+      "package": "chatlaw-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "china-ecommerce-operations-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "chuangye-manor",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "citongshuopro",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "cloud-ops-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "cloud-requirement-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "code",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "code-review-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "compliance-auditor",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "computer-operations-advisor",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "consulting-partners",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "content-creation-expert-prod",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "content-creator",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "content-distribution-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "content-monetization-team",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "content-writer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "contract-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "contract-legal-expert",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "cordys-crm",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "corp-credit-due-diligence",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "corporate-training-designer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "cpq",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "cross-border-ecommerce-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "cultural-intelligence-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "customer-support-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "data",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "data-analysis",
+      "status": "restricted-root"
+    },
+    {
+      "package": "data-analytics-reporter",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "data-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "data-integration-agent",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "database-operations",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "database-optimization-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "databrain-agent-v2",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "databrain-opinion-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "dd-due-diligence-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "deal-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "deep-research",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "delightful-experience-designer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "design-engine",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "design-md-architect",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "design-prototype-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "design-to-code",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "dev-ops-automation-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "dev-pipeline-orchestrator",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "developer-evangelist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "discovery-coach",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "diversity-visual-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "dockerfile-gen",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "document-generation-expert",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "document-skills",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "douyin-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "earnings-reviewer",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "edgeone-makers-experts",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "egypt-marketing",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "egypt-public-affairs",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "egypt-strategic-advisory",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "embedded-firmware-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "empirical-research-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "engineering-assurance-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "engineering-workflow-skills",
+      "status": "permissive-root-text"
+    },
+    {
+      "package": "english-writing-coach",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "eno",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "enterprise-account-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "enterprise-legal-team",
+      "status": "permissive-root-text"
+    },
+    {
+      "package": "equity-research",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "evidence-collector",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "exam-preparation-planner",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "executing-marketing-campaigns",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "executive-summary-generator",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "experiment-tracking-manager",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "family-education-coach",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "family-education-ma",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "fbsir-aigc-compliance-red-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "fbsir-beike-yi",
+      "status": "permissive-root-text"
+    },
+    {
+      "package": "fbsir-board-secretary-assistant",
+      "status": "permissive-root-text"
+    },
+    {
+      "package": "fbsir-eight-seat-board",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "fbsir-industry-scene-researcher",
+      "status": "permissive-root-text"
+    },
+    {
+      "package": "fbsir-mom-dialogue-expert",
+      "status": "restricted-root"
+    },
+    {
+      "package": "fbsir-super-independent-board",
+      "status": "permissive-root-text"
+    },
+    {
+      "package": "fbsir-super-partner",
+      "status": "permissive-root-text"
+    },
+    {
+      "package": "feedback-synthesis-analyst",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "fin-research-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "finance",
+      "status": "permissive-root-text"
+    },
+    {
+      "package": "finance-data",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "financial-analysis",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "financial-tracker",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "finops-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "fortune-consultant",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "fortune-master",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "frontend",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "frontend-developer",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "frontend-slides",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "fund-research-analyst",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "fundus-disease-analysis",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "game-audio-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "game-designer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "game-development-studio",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "gaokao-advisor",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "geo-diagnosis-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "git-workflow-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "gl-reconciler",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "godot-game-script-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "godot-multiplayer-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "godot-shader-developer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "government-digital-presales-consultant",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "gpt-researcher-team",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "growth-hacker",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "gstack",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "healthcare-marketing-compliance-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "hr-digital-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "hr-operations-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "hsk-devops-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "huashu-data-pro",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "huashu-doc-reviewer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "hubble-eval-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "humanize-ppt-team",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "identity-graph-operator",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ihr-ai-interviewer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ihr-conference",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "incident-response-commander",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "indie-founder-coach",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "indonesia-bd-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "indonesia-digital-law-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "indonesia-pa-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "industrial-park-investment-attraction-expert",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "industry-service-experts",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "industry-sre-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "infrastructure-operations-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "innovation-startup-mentor",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "inspection-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "instagram-operations-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "internal-comms",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "interview-simulator",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "investment-banking",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "investment-masters-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "invoice-verify-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "invoice-verify-workbuddy",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ip-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "jiayi-ads-analytics-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "jinshuju-expert",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "jinshuju-form-expert",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "jinshuju-table-expert",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "jira-workflow-admin",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "job-companion-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "kdocs-data-table",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "kdocs-doc-butler",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "kdocs-knowledge-collector",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "kdocs-pdf-toolbox",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "kdocs-ppt-creator",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ket-prep-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "kidd-content-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "kuaishou-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "kyc-screener",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "law-student-coach",
+      "status": "permissive-root-text"
+    },
+    {
+      "package": "lazy-travel-planner",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "legal-builder-hub",
+      "status": "permissive-root-text"
+    },
+    {
+      "package": "legal-clinic-supervisor",
+      "status": "permissive-root-text"
+    },
+    {
+      "package": "legal-compliance-reviewer",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "legal-search-pro",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "level-designer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "linked-in-content-creator",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "linkfox-expert-amazon-listing-specialist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "litigation-legal",
+      "status": "permissive-root-text"
+    },
+    {
+      "package": "liuxue-yanxue-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "livestream-ecommerce-coach",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "llm-wiki",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "long-manuscript-expert",
+      "status": "permissive-root-text"
+    },
+    {
+      "package": "lsp-index-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "mac-os-spatial-metal-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "mai-deal-advisor",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "malaysia-finance-tax",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "malaysia-hr-admin",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "malaysia-legal",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "malaysia-marketing",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "market-analysis-cn",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "market-researcher",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "marketing-campaign-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "marketing-growth-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "marketing-reviewer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "mcp-build-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "meeting-prep-agent",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "meituan-living-assistant",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "mentougou-business-guide",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "mermaid-diagram-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "metamorphosis-practitioner",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "mi-zhen-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "mibao-media-archivist",
+      "status": "restricted-root"
+    },
+    {
+      "package": "migraq",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "migraq-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "migraq-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "mobile-application-developer",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "model-builder",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "model-quality-assurance-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "modern-webapp",
+      "status": "restricted-root"
+    },
+    {
+      "package": "month-end-closer",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "multi-cloud-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "multi-cloud-management-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "mvp-dev-expert-team",
+      "status": "permissive-root-text"
+    },
+    {
+      "package": "narrative-designer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ncre-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "new-share-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "news-briefing-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "news-buddy",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "nges-healthcare-marketing-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ngo-challenge-advisor",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "note-class-representative",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "novel-creator",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "novel-generator",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "nuwa",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "omics-bioinfo-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "omics-cdgpt-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "omics-diagnosis-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "omics-hpc-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "omics-iggm-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "omics-ori-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "omics-scbert-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "omics-scprotein-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "omics-tfold-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "opc-team",
+      "status": "conditional-root"
+    },
+    {
+      "package": "openspec-doc-team",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "outbound-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "paid-media-auditor",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "panshi-customer-visit-agent",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "paper-topic-selection",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "patient-education-content-review-word-assistant",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "perf-management-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "performance-testing-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "personal-fitness-coach",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "personal-knowledge-architect",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "pitch-agent",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "pneumonia-ai-analyst",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "podcast-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ppc-bidding-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ppt-creation-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "presales-technical-consultant",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "private-domain-marketing-expert",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "private-domain-operations-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "private-equity",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "product-management",
+      "status": "permissive-root-text"
+    },
+    {
+      "package": "product-strategy-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "programmatic-ad-buyer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "project-shepherd",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "promo-creator-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "prompt-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "prompt-engineering-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "proposal-strategist",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "python-fullstack-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "qingflow-hr-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "rapid-prototyping-engineer",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "reality-checker",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "recruitment-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "reddit-community-builder",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "remotion-video-generator",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "resume-assistant",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "roadshow-research-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "roblox-avatar-creator",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "roblox-experience-designer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "roblox-system-script-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "rum-fullstack-team",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "sa-legal-compliance",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "sales-battle-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "sales-coach",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "sales-data-extraction-agent",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "sales-pipeline-analyst",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "sdk-log-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "search-term-analyst",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "security-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "senior-developer",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "senior-project-manager",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "seo-content-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "seo-expert",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "sg-biz-dev",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "sg-finance-tax",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "sg-hr-admin-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "short-video-editing-coach",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "site-reliability-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "skill-smith",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "skillhub-charity-expert-team",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "smart-stock-analyst",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "smb-compliance",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "smb-finance",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "smb-operations",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "smb-revenue",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "smb-team",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "social-ad-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "social-engagement-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "social-media-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "soe",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "software-architect",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "software-company",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "solidity-smart-contract-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "south-africa-hr-admin",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "south-africa-strategy-advisor",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "sprint-priority-manager",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "sre-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "statement-auditor",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "stock-partner-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "strategy-backtest-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "studio-operations-manager",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "studio-producer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "study-abroad-consultant",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "study-fortune-compass",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "study-planner",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "superpowers-zh",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "supply-chain-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tanyuan-cultural-heritage-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tax-compliance-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tc-chengxin-travel-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tc-sec",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tdx-stock-diagnostician",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tdx-stock-hunter",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tdx-value-assessor",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "technical-artist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "technical-documentation-engineer",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "tencent-charity-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tencent-cloud-price-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tencent-cloud-quote-assistant",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tencent-rtc-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tencent-security-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tencentcloud-api",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "terminal-integration-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "terminal-veteran",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "test-results-analyst",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "thai-marketing-creative",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "thailand-hr-admin",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "thesis-writing-mentor",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "threat-detection-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tianyu-account-guardian",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tianyu-marketing-guardian",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tiderider-sentiment",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tietu-toutiao",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tik-tok-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tool-evaluation-expert",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "topic-evaluator",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "trading-agent",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "trend-hunter",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "trend-researcher",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "tripstar-agent",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "twitter-operations-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "txzhaopin",
+      "status": "restricted-root"
+    },
+    {
+      "package": "uae-marketing-advisor",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "uae-public-affairs",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "uae-strategic-advisor",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "ui-designer",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "unity-architect",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "unity-editor-tool-developer",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "unity-multiplayer-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "unity-shader-graph-artist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "unreal-multiplayer-architect",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "unreal-system-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "unreal-technical-artist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "unreal-world-builder",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "user-experience-architect",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "user-experience-researcher",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "uupt-delivery",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "valuation-reviewer",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "vibeknow-design-video",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "vibeknow-handdraw",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "vibeknow-ppt-explain",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "video-dissection",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "video-gen-team",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "vietnam-finance-tax-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "vietnam-public-affairs",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "viral-topic-master",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "vision-os-spatial-engineer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "visual-storytelling-expert",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "vocab-craft-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "we-chat-mini-program-developer",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "wealth-management",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "webapp-testing",
+      "status": "permissive-manifest-only"
+    },
+    {
+      "package": "wechat-channels-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "wechat-official-account-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "weibo-strategist",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "well-arch-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "wentu",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "workbuddy-universal-mentor",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "workflow-assistant",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "workflow-optimization-expert",
+      "status": "subcomponent-license-only"
+    },
+    {
+      "package": "workspace-builder",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "worldcup-buddy",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "xiaofa-litigation-assistant",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "xiaohongshu-operations-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "xiaot",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "xr-cockpit-interaction-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "xr-immersive-developer",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "xr-interface-architect",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "yahoo-finance-cli",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "yunzhi-doc-quality-expert",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "yunzhi-qa-assistant",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "zero-knowledge-proof-admin",
+      "status": "no-license-evidence"
+    },
+    {
+      "package": "zhihu-strategist",
+      "status": "no-license-evidence"
+    }
+  ],
+  "distribution_policy": "Only root-permissively-licensed agents/*.md texts and retained root licenses are included. Other original texts, attachments, tools, hooks and credentials are excluded."
+}

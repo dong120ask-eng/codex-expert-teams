@@ -1,0 +1,910 @@
+[
+  {
+    "id": "AicodingArchitectureExpertTeam",
+    "name": "AICoding 架构专家团",
+    "category": "02-Engineering",
+    "type": "team",
+    "plugin": "aicoding-architecture-expert-team",
+    "profile": "references/profiles/AicodingArchitectureExpertTeam.md",
+    "description": "以AICoding 架构专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "aicoding-architecture-expert-team-lead",
+        "name": "架构交付总监",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "business-architect",
+        "name": "业务架构师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "system-architect",
+        "name": "系统架构师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "platform-architect",
+        "name": "部署架构师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "security-architect",
+        "name": "安全架构师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "product-story-designer",
+        "name": "产品故事师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "knowledge-ingest-engineer",
+        "name": "知识摄入工程师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "research-analyst",
+        "name": "研究分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "ApiDev",
+    "name": "API开发专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "api-dev",
+    "profile": "references/profiles/ApiDev.md",
+    "description": "以API开发专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "BackendArchitect",
+    "name": "后端架构师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "backend-architect",
+    "profile": "references/profiles/BackendArchitect.md",
+    "description": "以后端架构师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "CATNetworkQualityAnalyst",
+    "name": "网络质量分析专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "cat-network-quality-analyst",
+    "profile": "references/profiles/CATNetworkQualityAnalyst.md",
+    "description": "以网络质量分析专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "Code",
+    "name": "代码开发流程专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "code",
+    "profile": "references/profiles/Code.md",
+    "description": "以代码开发流程专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "CodeReviewExpert",
+    "name": "代码审查专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "code-review-expert",
+    "profile": "references/profiles/CodeReviewExpert.md",
+    "description": "以代码审查专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DatabaseOperations",
+    "name": "数据库设计调优专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "database-operations",
+    "profile": "references/profiles/DatabaseOperations.md",
+    "description": "以数据库设计调优专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DevOpsAutomationEngineer",
+    "name": "DevOps自动化工程师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "dev-ops-automation-engineer",
+    "profile": "references/profiles/DevOpsAutomationEngineer.md",
+    "description": "以DevOps自动化工程师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DevPipelineOrchestrator",
+    "name": "开发流水线编排专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "dev-pipeline-orchestrator",
+    "profile": "references/profiles/DevPipelineOrchestrator.md",
+    "description": "以开发流水线编排专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DockerfileGenExpert",
+    "name": "Dockerfile生成专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "dockerfile-gen",
+    "profile": "references/profiles/DockerfileGenExpert.md",
+    "description": "以Dockerfile生成专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "EdgeoneMakersExperts",
+    "name": "Makers 开发专家团",
+    "category": "02-Engineering",
+    "type": "team",
+    "plugin": "edgeone-makers-experts",
+    "profile": "references/profiles/EdgeoneMakersExperts.md",
+    "description": "以Makers 开发专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "edgeone-makers-team-lead",
+        "name": "一站式交付总监",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "frontend-specialist",
+        "name": "前端工程师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "backend-specialist",
+        "name": "后端工程师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "agent-specialist",
+        "name": "AI Agent 工程师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "EmbeddedFirmwareEngineer",
+    "name": "嵌入式固件工程师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "embedded-firmware-engineer",
+    "profile": "references/profiles/EmbeddedFirmwareEngineer.md",
+    "description": "以嵌入式固件工程师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "EngineeringAssuranceTeam",
+    "name": "工程保障团队",
+    "category": "02-Engineering",
+    "type": "team",
+    "plugin": "engineering-assurance-team",
+    "profile": "references/profiles/EngineeringAssuranceTeam.md",
+    "description": "以工程保障团队视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "engineering-director",
+        "name": "工程督导",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "code-reviewer",
+        "name": "代码审查师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "architect",
+        "name": "系统架构师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "sre-engineer",
+        "name": "SRE 工程师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "testing-expert",
+        "name": "测试专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "tech-writer",
+        "name": "技术文档师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "EngineeringWorkflowSkills",
+    "name": "工程实践专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "engineering-workflow-skills",
+    "profile": "references/profiles/EngineeringWorkflowSkills.md",
+    "description": "以工程实践专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": "references/library/engineering-workflow-skills/1d0da55a97de7eac8bed.reference.md",
+    "status": "full-role",
+    "bundle_status": "open-role-text",
+    "members": []
+  },
+  {
+    "id": "Eno",
+    "name": "前端架构分析专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "eno",
+    "profile": "references/profiles/Eno.md",
+    "description": "以前端架构分析专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "Frontend",
+    "name": "前端界面开发专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "frontend",
+    "profile": "references/profiles/Frontend.md",
+    "description": "以前端界面开发专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "FrontendDeveloper",
+    "name": "前端开发工程师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "frontend-developer",
+    "profile": "references/profiles/FrontendDeveloper.md",
+    "description": "以前端开发工程师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "GitWorkflowExpert",
+    "name": "Git工作流专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "git-workflow-expert",
+    "profile": "references/profiles/GitWorkflowExpert.md",
+    "description": "以Git工作流专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "HskDevopsExpert",
+    "name": "网页发布与前端调试专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "hsk-devops-expert",
+    "profile": "references/profiles/HskDevopsExpert.md",
+    "description": "以网页发布与前端调试专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "IncidentResponseCommander",
+    "name": "事故响应指挥官",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "incident-response-commander",
+    "profile": "references/profiles/IncidentResponseCommander.md",
+    "description": "以事故响应指挥官视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "InfrastructureOperationsExpert",
+    "name": "基础设施运维专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "infrastructure-operations-expert",
+    "profile": "references/profiles/InfrastructureOperationsExpert.md",
+    "description": "以基础设施运维专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "LspIndexEngineer",
+    "name": "LSP索引工程师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "lsp-index-engineer",
+    "profile": "references/profiles/LspIndexEngineer.md",
+    "description": "以LSP索引工程师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "McpBuildExpert",
+    "name": "MCP构建专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "mcp-build-expert",
+    "profile": "references/profiles/McpBuildExpert.md",
+    "description": "以MCP构建专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MobileApplicationDeveloper",
+    "name": "移动应用开发工程师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "mobile-application-developer",
+    "profile": "references/profiles/MobileApplicationDeveloper.md",
+    "description": "以移动应用开发工程师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ModernWebappExpert",
+    "name": "现代Web开发专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "modern-webapp",
+    "profile": "references/profiles/ModernWebappExpert.md",
+    "description": "以现代Web开发专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MvpDevExpertTeam",
+    "name": "MVP开发专家团",
+    "category": "02-Engineering",
+    "type": "team",
+    "plugin": "mvp-dev-expert-team",
+    "profile": "references/profiles/MvpDevExpertTeam.md",
+    "description": "以MVP开发专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": "references/library/mvp-dev-expert-team/7ddf150cfc4a41d7c257.reference.md",
+    "status": "full-role",
+    "bundle_status": "open-role-text",
+    "members": [
+      {
+        "id": "mvp-dev-expert-team-team-lead",
+        "name": "项目总监",
+        "role": "lead",
+        "methodology": "references/library/mvp-dev-expert-team/7ddf150cfc4a41d7c257.reference.md",
+        "status": "full-role"
+      },
+      {
+        "id": "mvp-dev-expert-team-pm",
+        "name": "产品经理",
+        "role": "member",
+        "methodology": "references/library/mvp-dev-expert-team/1cd64d0fd910be1b6da3.reference.md",
+        "status": "full-role"
+      },
+      {
+        "id": "mvp-dev-expert-team-designer",
+        "name": "UI/UX设计师",
+        "role": "member",
+        "methodology": "references/library/mvp-dev-expert-team/a27f2e69490a237b4944.reference.md",
+        "status": "full-role"
+      },
+      {
+        "id": "mvp-dev-expert-team-architect",
+        "name": "首席架构师",
+        "role": "member",
+        "methodology": "references/library/mvp-dev-expert-team/dbaa225abc0d2635a2b2.reference.md",
+        "status": "full-role"
+      },
+      {
+        "id": "mvp-dev-expert-team-frontend",
+        "name": "前端工程师",
+        "role": "member",
+        "methodology": "references/library/mvp-dev-expert-team/6694db519643729f92a7.reference.md",
+        "status": "full-role"
+      },
+      {
+        "id": "mvp-dev-expert-team-backend",
+        "name": "后端工程师",
+        "role": "member",
+        "methodology": "references/library/mvp-dev-expert-team/ce2d043d5c4636dd6a1c.reference.md",
+        "status": "full-role"
+      },
+      {
+        "id": "mvp-dev-expert-team-qa",
+        "name": "测试工程师",
+        "role": "member",
+        "methodology": "references/library/mvp-dev-expert-team/52d027c91f4e023e5833.reference.md",
+        "status": "full-role"
+      },
+      {
+        "id": "mvp-dev-expert-team-devops",
+        "name": "运维工程师",
+        "role": "member",
+        "methodology": "references/library/mvp-dev-expert-team/163a56de962377d653c2.reference.md",
+        "status": "full-role"
+      }
+    ]
+  },
+  {
+    "id": "NcreExpert",
+    "name": "计算机等级考试专家团",
+    "category": "02-Engineering",
+    "type": "team",
+    "plugin": "ncre-expert",
+    "profile": "references/profiles/NcreExpert.md",
+    "description": "以计算机等级考试专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "ncre-expert-team-lead",
+        "name": "等考总教练",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ncre-level1",
+        "name": "一级辅导专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ncre-level2",
+        "name": "二级辅导专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ncre-level3",
+        "name": "三级辅导专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ncre-level4",
+        "name": "四级辅导专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "OmicsHpcExpert",
+    "name": "腾讯组学HPC集群运维与作业管理专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "omics-hpc-expert",
+    "profile": "references/profiles/OmicsHpcExpert.md",
+    "description": "以腾讯组学HPC集群运维与作业管理专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PromptEngineer",
+    "name": "大语言模型提示词架构师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "prompt-engineer",
+    "profile": "references/profiles/PromptEngineer.md",
+    "description": "以大语言模型提示词架构师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PythonFullstackEngineer",
+    "name": "Python 全栈工程师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "python-fullstack-engineer",
+    "profile": "references/profiles/PythonFullstackEngineer.md",
+    "description": "以Python 全栈工程师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "RapidPrototypingEngineer",
+    "name": "快速原型工程师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "rapid-prototyping-engineer",
+    "profile": "references/profiles/RapidPrototypingEngineer.md",
+    "description": "以快速原型工程师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "RumFullstackTeam",
+    "name": "腾讯云 RUM 全链路专家团",
+    "category": "02-Engineering",
+    "type": "team",
+    "plugin": "rum-fullstack-team",
+    "profile": "references/profiles/RumFullstackTeam.md",
+    "description": "以腾讯云 RUM 全链路专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "rum-team-lead",
+        "name": "可观测性统筹官",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "rum-integration-specialist",
+        "name": "RUM 接入官",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "rum-performance-analyst",
+        "name": "RUM 性能分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "SecurityEngineer",
+    "name": "安全工程师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "security-engineer",
+    "profile": "references/profiles/SecurityEngineer.md",
+    "description": "以安全工程师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SeniorDeveloper",
+    "name": "高级开发工程师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "senior-developer",
+    "profile": "references/profiles/SeniorDeveloper.md",
+    "description": "以高级开发工程师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SiteReliabilityEngineer",
+    "name": "站点可靠性工程师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "site-reliability-engineer",
+    "profile": "references/profiles/SiteReliabilityEngineer.md",
+    "description": "以站点可靠性工程师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SoftwareArchitect",
+    "name": "软件架构师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "software-architect",
+    "profile": "references/profiles/SoftwareArchitect.md",
+    "description": "以软件架构师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SoftwareCompany",
+    "name": "软件开发团队",
+    "category": "02-Engineering",
+    "type": "team",
+    "plugin": "software-company",
+    "profile": "references/profiles/SoftwareCompany.md",
+    "description": "以软件开发团队视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "software-team-lead",
+        "name": "交付总监",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "software-product-manager",
+        "name": "产品经理",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "software-architect",
+        "name": "架构师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "software-engineer",
+        "name": "工程师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "software-qa-engineer",
+        "name": "QA工程师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "SoftwareWorkshop",
+    "name": "软件工坊",
+    "category": "02-Engineering",
+    "type": "team",
+    "plugin": "gstack",
+    "profile": "references/profiles/SoftwareWorkshop.md",
+    "description": "以软件工坊视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "gstack-lead",
+        "name": "软件工坊CEO",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "gstack-product-reviewer",
+        "name": "多维产品评审",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "gstack-security-officer",
+        "name": "OWASP+STRIDE安全审计",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "gstack-qa-lead",
+        "name": "QA测试与发布",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "gstack-designer",
+        "name": "设计系统与视觉审查",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "gstack-investigator",
+        "name": "调试与根因分析",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "SoliditySmartContractEngineer",
+    "name": "Solidity智能合约工程师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "solidity-smart-contract-engineer",
+    "profile": "references/profiles/SoliditySmartContractEngineer.md",
+    "description": "以Solidity智能合约工程师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SuperpowersZh",
+    "name": "AI编程方法论与中文开发规范专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "superpowers-zh",
+    "profile": "references/profiles/SuperpowersZh.md",
+    "description": "以AI编程方法论与中文开发规范专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TencentcloudApi",
+    "name": "腾讯云API专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "tencentcloud-api",
+    "profile": "references/profiles/TencentcloudApi.md",
+    "description": "以腾讯云API专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TerminalIntegrationExpert",
+    "name": "终端集成专家",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "terminal-integration-expert",
+    "profile": "references/profiles/TerminalIntegrationExpert.md",
+    "description": "以终端集成专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ThreatDetectionEngineer",
+    "name": "威胁检测工程师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "threat-detection-engineer",
+    "profile": "references/profiles/ThreatDetectionEngineer.md",
+    "description": "以威胁检测工程师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "WeChatMiniProgramDeveloper",
+    "name": "微信小程序开发者",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "we-chat-mini-program-developer",
+    "profile": "references/profiles/WeChatMiniProgramDeveloper.md",
+    "description": "以微信小程序开发者视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "WorkspaceBuilder",
+    "name": "工作台搭建师",
+    "category": "02-Engineering",
+    "type": "agent",
+    "plugin": "workspace-builder",
+    "profile": "references/profiles/WorkspaceBuilder.md",
+    "description": "以工作台搭建师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  }
+]

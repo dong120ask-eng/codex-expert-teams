@@ -1,0 +1,539 @@
+[
+  {
+    "id": "AgentIdentityTrustExpert",
+    "name": "智能体身份信任专家",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "agent-identity-trust-expert",
+    "profile": "references/profiles/AgentIdentityTrustExpert.md",
+    "description": "以智能体身份信任专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "BlockchainSecurityAuditor",
+    "name": "区块链安全审计师",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "blockchain-security-auditor",
+    "profile": "references/profiles/BlockchainSecurityAuditor.md",
+    "description": "以区块链安全审计师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ChatLawTeam",
+    "name": "中文法律咨询团",
+    "category": "11-SecurityCompliance",
+    "type": "team",
+    "plugin": "chatlaw-team",
+    "profile": "references/profiles/ChatLawTeam.md",
+    "description": "以中文法律咨询团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "chatlaw-team-lead",
+        "name": "首席法律顾问",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "info-intake",
+        "name": "案情采集专员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "legal-research",
+        "name": "法条研究员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "case-precedent",
+        "name": "判例分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "advice-writer",
+        "name": "法律建议撰写师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "report-finalizer",
+        "name": "咨询报告终稿师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "ComplianceAuditor",
+    "name": "合规审计师",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "compliance-auditor",
+    "profile": "references/profiles/ComplianceAuditor.md",
+    "description": "以合规审计师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ContractExpert",
+    "name": "合同风控顾问",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "contract-expert",
+    "profile": "references/profiles/ContractExpert.md",
+    "description": "以合同风控顾问视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ContractLegalExpert",
+    "name": "资深合同法务专家",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "contract-legal-expert",
+    "profile": "references/profiles/ContractLegalExpert.md",
+    "description": "以资深合同法务专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "EnterpriseLegalTeam",
+    "name": "企业法务专家团",
+    "category": "11-SecurityCompliance",
+    "type": "team",
+    "plugin": "enterprise-legal-team",
+    "profile": "references/profiles/EnterpriseLegalTeam.md",
+    "description": "以企业法务专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": "references/library/enterprise-legal-team/b007cc56a6d1edce97f3.reference.md",
+    "status": "full-role",
+    "bundle_status": "open-role-text",
+    "members": [
+      {
+        "id": "enterprise-legal-lead",
+        "name": "企业法务协同总监",
+        "role": "lead",
+        "methodology": "references/library/enterprise-legal-team/b007cc56a6d1edce97f3.reference.md",
+        "status": "full-role"
+      },
+      {
+        "id": "commercial-contracts-counsel",
+        "name": "商业合同顾问",
+        "role": "member",
+        "methodology": "references/library/enterprise-legal-team/e34041581b2414336001.reference.md",
+        "status": "full-role"
+      },
+      {
+        "id": "corporate-ma-counsel",
+        "name": "公司与并购顾问",
+        "role": "member",
+        "methodology": "references/library/enterprise-legal-team/64cdd759d8be825ee7a8.reference.md",
+        "status": "full-role"
+      },
+      {
+        "id": "employment-law-counsel",
+        "name": "雇佣法务顾问",
+        "role": "member",
+        "methodology": "references/library/enterprise-legal-team/8ebd09e04bdff8d95ab0.reference.md",
+        "status": "full-role"
+      },
+      {
+        "id": "privacy-data-counsel",
+        "name": "隐私数据顾问",
+        "role": "member",
+        "methodology": "references/library/enterprise-legal-team/27599732abe6d1f083fb.reference.md",
+        "status": "full-role"
+      },
+      {
+        "id": "product-legal-counsel",
+        "name": "产品法务顾问",
+        "role": "member",
+        "methodology": "references/library/enterprise-legal-team/b8c50a14cb309a760caf.reference.md",
+        "status": "full-role"
+      },
+      {
+        "id": "regulatory-compliance-counsel",
+        "name": "监管合规顾问",
+        "role": "member",
+        "methodology": "references/library/enterprise-legal-team/6263d149a06d48625e3b.reference.md",
+        "status": "full-role"
+      },
+      {
+        "id": "ai-governance-counsel",
+        "name": "AI 治理顾问",
+        "role": "member",
+        "methodology": "references/library/enterprise-legal-team/79ece4af778bda71a954.reference.md",
+        "status": "full-role"
+      },
+      {
+        "id": "ip-portfolio-counsel",
+        "name": "知识产权顾问",
+        "role": "member",
+        "methodology": "references/library/enterprise-legal-team/9a33c89f3d5792547771.reference.md",
+        "status": "full-role"
+      }
+    ]
+  },
+  {
+    "id": "FbsirAigcComplianceRedTeam",
+    "name": "AIGC 营销合规审查官",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "fbsir-aigc-compliance-red-team",
+    "profile": "references/profiles/FbsirAigcComplianceRedTeam.md",
+    "description": "以AIGC 营销合规审查官视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "FbsirBoardSecretaryAssistant",
+    "name": "董秘助手",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "fbsir-board-secretary-assistant",
+    "profile": "references/profiles/FbsirBoardSecretaryAssistant.md",
+    "description": "以董秘助手视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": "references/library/fbsir-board-secretary-assistant/9e5588f627db868ac530.reference.md",
+    "status": "full-role",
+    "bundle_status": "open-role-text",
+    "members": []
+  },
+  {
+    "id": "HealthcareMarketingComplianceExpert",
+    "name": "医疗营销合规专家",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "healthcare-marketing-compliance-expert",
+    "profile": "references/profiles/HealthcareMarketingComplianceExpert.md",
+    "description": "以医疗营销合规专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "HuashuDocReviewer",
+    "name": "合同与公文审稿",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "huashu-doc-reviewer",
+    "profile": "references/profiles/HuashuDocReviewer.md",
+    "description": "以合同与公文审稿视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "InvoiceVerifyExpert",
+    "name": "发票查验专家",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "invoice-verify-expert",
+    "profile": "references/profiles/InvoiceVerifyExpert.md",
+    "description": "以发票查验专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "InvoiceVerifyWorkbuddy",
+    "name": "智能发票专家团",
+    "category": "11-SecurityCompliance",
+    "type": "team",
+    "plugin": "invoice-verify-workbuddy",
+    "profile": "references/profiles/InvoiceVerifyWorkbuddy.md",
+    "description": "以智能发票专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "invoice-verify-team-lead",
+        "name": "智能发票首席专家",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "invoice-sorter",
+        "name": "多模态识别专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "invoice-verifier",
+        "name": "发票查验专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "counterparty-risk-analyst",
+        "name": "商业信用专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "archivist",
+        "name": "企业票夹",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "IpExpert",
+    "name": "知识产权专家",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "ip-expert",
+    "profile": "references/profiles/IpExpert.md",
+    "description": "以知识产权专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "LawStudentCoach",
+    "name": "法学学习教练",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "law-student-coach",
+    "profile": "references/profiles/LawStudentCoach.md",
+    "description": "以法学学习教练视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": "references/library/law-student-coach/f37daa244f74176bb205.reference.md",
+    "status": "full-role",
+    "bundle_status": "open-role-text",
+    "members": []
+  },
+  {
+    "id": "LegalBuilderHubExpert",
+    "name": "法律技能治理专家",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "legal-builder-hub",
+    "profile": "references/profiles/LegalBuilderHubExpert.md",
+    "description": "以法律技能治理专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": "references/library/legal-builder-hub/aba7a954edcff0b65423.reference.md",
+    "status": "full-role",
+    "bundle_status": "open-role-text",
+    "members": []
+  },
+  {
+    "id": "LegalClinicSupervisor",
+    "name": "法律诊所督导顾问",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "legal-clinic-supervisor",
+    "profile": "references/profiles/LegalClinicSupervisor.md",
+    "description": "以法律诊所督导顾问视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": "references/library/legal-clinic-supervisor/6b337ffc51af8ecc61ad.reference.md",
+    "status": "full-role",
+    "bundle_status": "open-role-text",
+    "members": []
+  },
+  {
+    "id": "LegalComplianceReviewer",
+    "name": "法律合规审查员",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "legal-compliance-reviewer",
+    "profile": "references/profiles/LegalComplianceReviewer.md",
+    "description": "以法律合规审查员视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "LegalSearchPro",
+    "name": "法律检索专家",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "legal-search-pro",
+    "profile": "references/profiles/LegalSearchPro.md",
+    "description": "以法律检索专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "LitigationLegalExpert",
+    "name": "诉讼支持顾问",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "litigation-legal",
+    "profile": "references/profiles/LitigationLegalExpert.md",
+    "description": "以诉讼支持顾问视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": "references/library/litigation-legal/c48d82baa8b86d1483f7.reference.md",
+    "status": "full-role",
+    "bundle_status": "open-role-text",
+    "members": []
+  },
+  {
+    "id": "MarketingReviewer",
+    "name": "营销文案审查官",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "marketing-reviewer",
+    "profile": "references/profiles/MarketingReviewer.md",
+    "description": "以营销文案审查官视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SaLegalCompliance",
+    "name": "南非法务合规专家",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "sa-legal-compliance",
+    "profile": "references/profiles/SaLegalCompliance.md",
+    "description": "以南非法务合规专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SmbCompliance",
+    "name": "客户与合规官",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "smb-compliance",
+    "profile": "references/profiles/SmbCompliance.md",
+    "description": "以客户与合规官视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TaxComplianceTeam",
+    "name": "财税合规专家团",
+    "category": "11-SecurityCompliance",
+    "type": "team",
+    "plugin": "tax-compliance-team",
+    "profile": "references/profiles/TaxComplianceTeam.md",
+    "description": "以财税合规专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "tax-compliance-team-lead",
+        "name": "首席财税合规官",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "invoice-processor",
+        "name": "发票处理专员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "voucher-accountant",
+        "name": "凭证与账簿会计师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "financial-reporter",
+        "name": "财务报表分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "tax-filing-specialist",
+        "name": "税务申报专员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "compliance-auditor",
+        "name": "合规审计师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "TcSec",
+    "name": "腾讯云安全专家",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "tc-sec",
+    "profile": "references/profiles/TcSec.md",
+    "description": "以腾讯云安全专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "XiaofaLitigationAssistant",
+    "name": "诉讼助手",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "xiaofa-litigation-assistant",
+    "profile": "references/profiles/XiaofaLitigationAssistant.md",
+    "description": "以诉讼助手视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ZeroKnowledgeProofAdmin",
+    "name": "零知识证明管理员",
+    "category": "11-SecurityCompliance",
+    "type": "agent",
+    "plugin": "zero-knowledge-proof-admin",
+    "profile": "references/profiles/ZeroKnowledgeProofAdmin.md",
+    "description": "以零知识证明管理员视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  }
+]

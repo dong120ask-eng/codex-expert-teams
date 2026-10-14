@@ -1,0 +1,654 @@
+[
+  {
+    "id": "APMPerformanceExpert",
+    "name": "应用性能专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "apm-performance-expert",
+    "profile": "references/profiles/APMPerformanceExpert.md",
+    "description": "以应用性能专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "AbExperimentAnalyst",
+    "name": "AB实验分析师",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "ab-experiment-analyst",
+    "profile": "references/profiles/AbExperimentAnalyst.md",
+    "description": "以AB实验分析师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "AladinTestDesign",
+    "name": "腾讯云测试专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "aladin-test-design",
+    "profile": "references/profiles/AladinTestDesign.md",
+    "description": "以腾讯云测试专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "AndonQExpert",
+    "name": "腾讯云智能客服",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "andon-q-expert",
+    "profile": "references/profiles/AndonQExpert.md",
+    "description": "以腾讯云智能客服视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "AntiScamAgent",
+    "name": "腾讯云天御反诈专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "anti-scam-agent",
+    "profile": "references/profiles/AntiScamAgent.md",
+    "description": "以腾讯云天御反诈专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "CapacityExpert",
+    "name": "腾讯云容量规划专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "capacity-expert",
+    "profile": "references/profiles/CapacityExpert.md",
+    "description": "以腾讯云容量规划专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ChaosExpert",
+    "name": "腾讯云混沌演练专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "chaos-expert",
+    "profile": "references/profiles/ChaosExpert.md",
+    "description": "以腾讯云混沌演练专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "CharityDocFinanceExpert",
+    "name": "公益文书与财务专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "charity-doc-finance-expert",
+    "profile": "references/profiles/CharityDocFinanceExpert.md",
+    "description": "以公益文书与财务专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "CloudOpsTeam",
+    "name": "腾讯云技术支持",
+    "category": "13-TencentZone",
+    "type": "team",
+    "plugin": "cloud-ops-team",
+    "profile": "references/profiles/CloudOpsTeam.md",
+    "description": "以腾讯云技术支持视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "cloud-ops-team-lead",
+        "name": "首席技术支持官",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "cloud-q",
+        "name": "DevOps专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "andon-q",
+        "name": "售后服务专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "migra-q",
+        "name": "上云迁移专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "Cpq",
+    "name": "腾讯云客户报价专业顾问",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "cpq",
+    "profile": "references/profiles/Cpq.md",
+    "description": "以腾讯云客户报价专业顾问视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DatabrainAgentV2",
+    "name": "DataBrain数据专家2.0",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "databrain-agent-v2",
+    "profile": "references/profiles/DatabrainAgentV2.md",
+    "description": "以DataBrain数据专家2.0视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "FinopsExpert",
+    "name": "腾讯云FinOps专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "finops-expert",
+    "profile": "references/profiles/FinopsExpert.md",
+    "description": "以腾讯云FinOps专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "HrDigitalExpert",
+    "name": "腾讯HR数智专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "hr-digital-expert",
+    "profile": "references/profiles/HrDigitalExpert.md",
+    "description": "以腾讯HR数智专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "HubbleEvalExpert",
+    "name": "哈勃AI评测专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "hubble-eval-expert",
+    "profile": "references/profiles/HubbleEvalExpert.md",
+    "description": "以哈勃AI评测专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "IndustrySreTeam",
+    "name": "腾讯云行业SRE",
+    "category": "13-TencentZone",
+    "type": "team",
+    "plugin": "industry-sre-team",
+    "profile": "references/profiles/IndustrySreTeam.md",
+    "description": "以腾讯云行业SRE视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "industry-sre-team-lead",
+        "name": "首席 SRE",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "game-sre",
+        "name": "游戏行业 SRE 专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "retail-sre",
+        "name": "零售行业 SRE 专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "education-sre",
+        "name": "教育行业 SRE 专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "finance-sre",
+        "name": "金融行业 SRE 专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "mobility-sre",
+        "name": "出行行业 SRE 专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "internet-sre",
+        "name": "泛互联网行业 SRE 专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ecommerce-sre",
+        "name": "电商行业 SRE 专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "healthcare-sre",
+        "name": "医疗健康行业 SRE 专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "manufacturing-sre",
+        "name": "工业制造行业 SRE 专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "live-sre",
+        "name": "文娱直播行业 SRE 专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "social-im-sre",
+        "name": "社交通信行业 SRE 专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "saas-sre",
+        "name": "企业 SaaS 行业 SRE 专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "InspectionExpert",
+    "name": "腾讯云风险巡检专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "inspection-expert",
+    "profile": "references/profiles/InspectionExpert.md",
+    "description": "以腾讯云风险巡检专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MiZhenExpert",
+    "name": "觅诊",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "mi-zhen-expert",
+    "profile": "references/profiles/MiZhenExpert.md",
+    "description": "以觅诊视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MigraQExpert",
+    "name": "腾讯云迁移服务专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "migraq-expert",
+    "profile": "references/profiles/MigraQExpert.md",
+    "description": "以腾讯云迁移服务专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "Migraq",
+    "name": "腾讯云迁移服务专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "migraq",
+    "profile": "references/profiles/Migraq.md",
+    "description": "以腾讯云迁移服务专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MigraqTeam",
+    "name": "腾讯云上云迁移专家团",
+    "category": "13-TencentZone",
+    "type": "team",
+    "plugin": "migraq-team",
+    "profile": "references/profiles/MigraqTeam.md",
+    "description": "以腾讯云上云迁移专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "migraq-team-lead",
+        "name": "首席解决方案专家",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "product-expert",
+        "name": "腾讯云产品专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "landing-zone-expert",
+        "name": "Landing Zone 专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "cloud-architect",
+        "name": "上云架构师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "delivery-engineer",
+        "name": "迁移交付工程师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ops-engineer",
+        "name": "云运维工程师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "fde-engineer",
+        "name": "FDE 前置部署工程师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "MultiCloudExpert",
+    "name": "多云AIOps专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "multi-cloud-expert",
+    "profile": "references/profiles/MultiCloudExpert.md",
+    "description": "以多云AIOps专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MultiCloudManagementExpert",
+    "name": "腾讯云DevOps专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "multi-cloud-management-expert",
+    "profile": "references/profiles/MultiCloudManagementExpert.md",
+    "description": "以腾讯云DevOps专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PatientEducationContentReviewWordAssistant",
+    "name": "腾讯健康药箱-私域患教内容审核助手",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "patient-education-content-review-word-assistant",
+    "profile": "references/profiles/PatientEducationContentReviewWordAssistant.md",
+    "description": "以腾讯健康药箱-私域患教内容审核助手视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PerfManagementExpert",
+    "name": "绩效管理专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "perf-management-expert",
+    "profile": "references/profiles/PerfManagementExpert.md",
+    "description": "以绩效管理专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SdkLogExpert",
+    "name": "SDK 日志分析专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "sdk-log-expert",
+    "profile": "references/profiles/SdkLogExpert.md",
+    "description": "以SDK 日志分析专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "Soe",
+    "name": "腾讯云安全运营专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "soe",
+    "profile": "references/profiles/Soe.md",
+    "description": "以腾讯云安全运营专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SreExpert",
+    "name": "腾讯云SRE专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "sre-expert",
+    "profile": "references/profiles/SreExpert.md",
+    "description": "以腾讯云SRE专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TencentCharityExpert",
+    "name": "腾讯技术公益智能化专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "tencent-charity-expert",
+    "profile": "references/profiles/TencentCharityExpert.md",
+    "description": "以腾讯技术公益智能化专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TencentCloudPriceExpert",
+    "name": "腾讯云刊例价查询助手",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "tencent-cloud-price-expert",
+    "profile": "references/profiles/TencentCloudPriceExpert.md",
+    "description": "以腾讯云刊例价查询助手视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TencentCloudQuoteAssistant",
+    "name": "腾讯云产品报价顾问",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "tencent-cloud-quote-assistant",
+    "profile": "references/profiles/TencentCloudQuoteAssistant.md",
+    "description": "以腾讯云产品报价顾问视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TencentRtcExpert",
+    "name": "腾讯云实时音视频专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "tencent-rtc-expert",
+    "profile": "references/profiles/TencentRtcExpert.md",
+    "description": "以腾讯云实时音视频专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TencentSecurityExpert",
+    "name": "腾讯安全专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "tencent-security-expert",
+    "profile": "references/profiles/TencentSecurityExpert.md",
+    "description": "以腾讯安全专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TianyuAccountGuardian",
+    "name": "腾讯云天御账号保护专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "tianyu-account-guardian",
+    "profile": "references/profiles/TianyuAccountGuardian.md",
+    "description": "以腾讯云天御账号保护专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TianyuMarketingGuardian",
+    "name": "腾讯云天御营销保护专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "tianyu-marketing-guardian",
+    "profile": "references/profiles/TianyuMarketingGuardian.md",
+    "description": "以腾讯云天御营销保护专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "WellArchExpert",
+    "name": "腾讯云卓越架构专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "well-arch-expert",
+    "profile": "references/profiles/WellArchExpert.md",
+    "description": "以腾讯云卓越架构专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "WorkflowAssistant",
+    "name": "流程编排专家",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "workflow-assistant",
+    "profile": "references/profiles/WorkflowAssistant.md",
+    "description": "以流程编排专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "Xiaot",
+    "name": "小T HR智能助手",
+    "category": "13-TencentZone",
+    "type": "agent",
+    "plugin": "xiaot",
+    "profile": "references/profiles/Xiaot.md",
+    "description": "以小T HR智能助手视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  }
+]

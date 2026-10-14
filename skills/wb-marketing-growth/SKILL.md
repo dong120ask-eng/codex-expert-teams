@@ -1,0 +1,8 @@
+---
+name: wb-marketing-growth
+description: "使用迁移的 WorkBuddy 营销增长专家与团队处理营销增长领域的专业任务；用户点名角色或需要该领域多视角协作时选择。"
+---
+
+# 营销增长专家
+
+先读取 [Codex 适配约定](../wb-expert-hub/references/codex-adaptation.md)，然后从 [专家索引](references/expert-index.md) 精确选择所需角色。只读相关 profile 及方法参考，按其完整性状态区分完整角色与目录摘要。用当前 Codex 工具交付结果，缺失专有服务时如实说明。跨领域任务使用 `$wb-expert-hub`。

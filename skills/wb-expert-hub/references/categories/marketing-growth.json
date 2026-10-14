@@ -1,0 +1,720 @@
+[
+  {
+    "id": "AdCreativeStrategist",
+    "name": "广告创意策略师",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "ad-creative-strategist",
+    "profile": "references/profiles/AdCreativeStrategist.md",
+    "description": "以广告创意策略师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "AdTrackingExpert",
+    "name": "广告追踪技术专家",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "ad-tracking-expert",
+    "profile": "references/profiles/AdTrackingExpert.md",
+    "description": "以广告追踪技术专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "AppStoreOptimizationExpert",
+    "name": "应用商店优化专家",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "app-store-optimization-expert",
+    "profile": "references/profiles/AppStoreOptimizationExpert.md",
+    "description": "以应用商店优化专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "AutoConsultant",
+    "name": "汽车营销专家",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "auto-consultant",
+    "profile": "references/profiles/AutoConsultant.md",
+    "description": "以汽车营销专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "BaiduSeoExpert",
+    "name": "百度SEO专家",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "baidu-seo-expert",
+    "profile": "references/profiles/BaiduSeoExpert.md",
+    "description": "以百度SEO专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "BrandGuardian",
+    "name": "品牌策略师",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "brand-guardian",
+    "profile": "references/profiles/BrandGuardian.md",
+    "description": "以品牌策略师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "CarouselContentGrowthExpert",
+    "name": "轮播内容增长专家",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "carousel-content-growth-expert",
+    "profile": "references/profiles/CarouselContentGrowthExpert.md",
+    "description": "以轮播内容增长专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ChinaEcommerceOperationsExpert",
+    "name": "中国电商运营专家",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "china-ecommerce-operations-expert",
+    "profile": "references/profiles/ChinaEcommerceOperationsExpert.md",
+    "description": "以中国电商运营专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ContentMonetizationTeam",
+    "name": "内容变现商业化专家团",
+    "category": "05-MarketingGrowth",
+    "type": "team",
+    "plugin": "content-monetization-team",
+    "profile": "references/profiles/ContentMonetizationTeam.md",
+    "description": "以内容变现商业化专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "content-monetization-team-lead",
+        "name": "商业化策略师",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "cps-specialist",
+        "name": "CPS 佣金专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "cpe-cpm-expert",
+        "name": "效果广告专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "marketplace-operator",
+        "name": "商务合作顾问",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "revenue-analyst",
+        "name": "收益分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "CrossBorderEcommerceExpert",
+    "name": "跨境电商专家",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "cross-border-ecommerce-expert",
+    "profile": "references/profiles/CrossBorderEcommerceExpert.md",
+    "description": "以跨境电商专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "CulturalIntelligenceStrategist",
+    "name": "文化智能策略师",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "cultural-intelligence-strategist",
+    "profile": "references/profiles/CulturalIntelligenceStrategist.md",
+    "description": "以文化智能策略师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DeveloperEvangelist",
+    "name": "开发者布道师",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "developer-evangelist",
+    "profile": "references/profiles/DeveloperEvangelist.md",
+    "description": "以开发者布道师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "GeoDiagnosisExpert",
+    "name": "品牌 GEO 可见度诊断师",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "geo-diagnosis-expert",
+    "profile": "references/profiles/GeoDiagnosisExpert.md",
+    "description": "以品牌 GEO 可见度诊断师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "GrowthHacker",
+    "name": "增长黑客",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "growth-hacker",
+    "profile": "references/profiles/GrowthHacker.md",
+    "description": "以增长黑客视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "IdentityGraphOperator",
+    "name": "身份图谱运营师",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "identity-graph-operator",
+    "profile": "references/profiles/IdentityGraphOperator.md",
+    "description": "以身份图谱运营师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "JiayiAdsAnalyticsExpert",
+    "name": "广告投放操盘专家",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "jiayi-ads-analytics-expert",
+    "profile": "references/profiles/JiayiAdsAnalyticsExpert.md",
+    "description": "以广告投放操盘专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "LinkedInContentCreator",
+    "name": "LinkedIn内容创作者",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "linked-in-content-creator",
+    "profile": "references/profiles/LinkedInContentCreator.md",
+    "description": "以LinkedIn内容创作者视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "LivestreamEcommerceCoach",
+    "name": "直播电商教练",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "livestream-ecommerce-coach",
+    "profile": "references/profiles/LivestreamEcommerceCoach.md",
+    "description": "以直播电商教练视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MarketAnalysisCn",
+    "name": "市场分析专家",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "market-analysis-cn",
+    "profile": "references/profiles/MarketAnalysisCn.md",
+    "description": "以市场分析专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MarketingCampaignExpert",
+    "name": "营销活动策划专家",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "executing-marketing-campaigns",
+    "profile": "references/profiles/MarketingCampaignExpert.md",
+    "description": "以营销活动策划专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MarketingCampaignTeam",
+    "name": "营销战役团队",
+    "category": "05-MarketingGrowth",
+    "type": "team",
+    "plugin": "marketing-campaign-team",
+    "profile": "references/profiles/MarketingCampaignTeam.md",
+    "description": "以营销战役团队视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "marketing-director",
+        "name": "增长操盘手",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "content-creator",
+        "name": "内容创作者",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "campaign-planner",
+        "name": "活动策划师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "seo-expert",
+        "name": "SEO 专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "brand-analyst",
+        "name": "品牌分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "MarketingGrowthTeam",
+    "name": "营销增长专家团",
+    "category": "05-MarketingGrowth",
+    "type": "team",
+    "plugin": "marketing-growth-team",
+    "profile": "references/profiles/MarketingGrowthTeam.md",
+    "description": "以营销增长专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "marketing-growth-team-lead",
+        "name": "首席营销策略师",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "cro-specialist",
+        "name": "转化率优化师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "seo-content-strategist",
+        "name": "搜索引擎与内容优化师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "growth-engineer",
+        "name": "增长与获客负责人",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "analytics-revops-lead",
+        "name": "数据分析与营收运营负责人",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "NgesHealthcareMarketingTeam",
+    "name": "腾讯健康NGES医药营销专家团",
+    "category": "05-MarketingGrowth",
+    "type": "team",
+    "plugin": "nges-healthcare-marketing-team",
+    "profile": "references/profiles/NgesHealthcareMarketingTeam.md",
+    "description": "以腾讯健康NGES医药营销专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "nges-team-lead",
+        "name": "医药营销智能协调官",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "hcp-insight-expert",
+        "name": "医药HCP洞察",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "interactive-medical-case-expert",
+        "name": "医学互动病例生成",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "med-rep-material-studio",
+        "name": "医药学术物料生成",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "nges-healthcare-compliance-lite",
+        "name": "医疗营销合规审核",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "med-content-recreator",
+        "name": "医学内容二创",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "PaidMediaAuditor",
+    "name": "付费媒体审计师",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "paid-media-auditor",
+    "profile": "references/profiles/PaidMediaAuditor.md",
+    "description": "以付费媒体审计师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PpcBiddingStrategist",
+    "name": "PPC竞价广告策略师",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "ppc-bidding-strategist",
+    "profile": "references/profiles/PpcBiddingStrategist.md",
+    "description": "以PPC竞价广告策略师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PrivateDomainMarketingExpert",
+    "name": "私域营销专家",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "private-domain-marketing-expert",
+    "profile": "references/profiles/PrivateDomainMarketingExpert.md",
+    "description": "以私域营销专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PrivateDomainOperationsExpert",
+    "name": "私域运营专家",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "private-domain-operations-expert",
+    "profile": "references/profiles/PrivateDomainOperationsExpert.md",
+    "description": "以私域运营专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ProgrammaticAdBuyer",
+    "name": "程序化广告买手",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "programmatic-ad-buyer",
+    "profile": "references/profiles/ProgrammaticAdBuyer.md",
+    "description": "以程序化广告买手视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "RedditCommunityBuilder",
+    "name": "Reddit社区建设者",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "reddit-community-builder",
+    "profile": "references/profiles/RedditCommunityBuilder.md",
+    "description": "以Reddit社区建设者视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SearchTermAnalyst",
+    "name": "搜索词分析师",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "search-term-analyst",
+    "profile": "references/profiles/SearchTermAnalyst.md",
+    "description": "以搜索词分析师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SeoContentTeam",
+    "name": "SEO 内容营销团队",
+    "category": "05-MarketingGrowth",
+    "type": "team",
+    "plugin": "seo-content-team",
+    "profile": "references/profiles/SeoContentTeam.md",
+    "description": "以SEO 内容营销团队视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "seo-content-team-lead",
+        "name": "首席内容策略官",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "keyword-researcher",
+        "name": "关键词研究与主题聚类策略师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "content-writer",
+        "name": "SEO 内容撰稿人",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "seo-optimizer",
+        "name": "页面 SEO 优化师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "content-editor",
+        "name": "内容编辑与人性化专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "cro-analyst",
+        "name": "CRO 与落地页心理学专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "link-strategist",
+        "name": "链接策略与内容分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "SeoExpert",
+    "name": "SEO专家",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "seo-expert",
+    "profile": "references/profiles/SeoExpert.md",
+    "description": "以SEO专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SocialAdStrategist",
+    "name": "社交广告策略师",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "social-ad-strategist",
+    "profile": "references/profiles/SocialAdStrategist.md",
+    "description": "以社交广告策略师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SocialEngagementTeam",
+    "name": "社媒互动增长专家团",
+    "category": "05-MarketingGrowth",
+    "type": "team",
+    "plugin": "social-engagement-team",
+    "profile": "references/profiles/SocialEngagementTeam.md",
+    "description": "以社媒互动增长专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "social-engagement-team-lead",
+        "name": "增长策略师",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "interaction-automator",
+        "name": "自动化互动专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ai-comment-specialist",
+        "name": "AI评论运营专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "signal-miner",
+        "name": "信号挖掘专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "brand-monitor",
+        "name": "品牌监控专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "SocialMediaStrategist",
+    "name": "社交媒体策略师",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "social-media-strategist",
+    "profile": "references/profiles/SocialMediaStrategist.md",
+    "description": "以社交媒体策略师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TrendHunter",
+    "name": "自媒体热点雷达与内容增长官",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "trend-hunter",
+    "profile": "references/profiles/TrendHunter.md",
+    "description": "以自媒体热点雷达与内容增长官视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "WechatChannelsStrategist",
+    "name": "微信视频号运营策略师",
+    "category": "05-MarketingGrowth",
+    "type": "agent",
+    "plugin": "wechat-channels-strategist",
+    "profile": "references/profiles/WechatChannelsStrategist.md",
+    "description": "以微信视频号运营策略师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  }
+]

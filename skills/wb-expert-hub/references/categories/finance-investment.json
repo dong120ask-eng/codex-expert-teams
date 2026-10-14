@@ -1,0 +1,1091 @@
+[
+  {
+    "id": "AShareAnalysis",
+    "name": "A股研究团队",
+    "category": "08-FinanceInvestment",
+    "type": "team",
+    "plugin": "a-share-analysis",
+    "profile": "references/profiles/AShareAnalysis.md",
+    "description": "以A股研究团队视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "a-share-advisor",
+        "name": "研究总监",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "macro-strategist",
+        "name": "宏观策略师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "market-reader",
+        "name": "市场解读师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "stock-researcher",
+        "name": "个股研究员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "valuation-pricer",
+        "name": "估值定价师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "industry-mapper",
+        "name": "产业链分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "money-tracker",
+        "name": "资金行为分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "risk-doctor",
+        "name": "风险诊断师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "AccountsPayableAgent",
+    "name": "应付账款代理",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "accounts-payable-agent",
+    "profile": "references/profiles/AccountsPayableAgent.md",
+    "description": "以应付账款代理视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "BelieveInLight",
+    "name": "相信光么",
+    "category": "08-FinanceInvestment",
+    "type": "team",
+    "plugin": "believe-in-light",
+    "profile": "references/profiles/BelieveInLight.md",
+    "description": "以相信光么视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "believe-in-light-team-lead",
+        "name": "首席光通讯分析师",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "gongji-scanner",
+        "name": "供给端扫描员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "xuqiu-scanner",
+        "name": "需求端扫描员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "jishu-scanner",
+        "name": "技术端扫描员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "causal-verifier",
+        "name": "因果链验证员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "weight-calibrator",
+        "name": "权重校准员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "rater",
+        "name": "赛道评级员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "Citongshuopro",
+    "name": "刺桐说Pro-投资社群嘉宾团",
+    "category": "08-FinanceInvestment",
+    "type": "team",
+    "plugin": "citongshuopro",
+    "profile": "references/profiles/Citongshuopro.md",
+    "description": "以刺桐说Pro-投资社群嘉宾团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "citongshuopro-team-lead",
+        "name": "社群管理员",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "zhanglaoshi",
+        "name": "价值投资专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "jiazong",
+        "name": "趋势跟踪专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "littlestar",
+        "name": "游资短线专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "gy",
+        "name": "宏观对冲专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "CorpCreditDueDiligence",
+    "name": "腾讯云天御对公信贷专家",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "corp-credit-due-diligence",
+    "profile": "references/profiles/CorpCreditDueDiligence.md",
+    "description": "以腾讯云天御对公信贷专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DdDueDiligenceTeam",
+    "name": "AI尽调专家团",
+    "category": "08-FinanceInvestment",
+    "type": "team",
+    "plugin": "dd-due-diligence-team",
+    "profile": "references/profiles/DdDueDiligenceTeam.md",
+    "description": "以AI尽调专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "dd-due-diligence-lead",
+        "name": "尽调流程总控",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "intake-material-custodian",
+        "name": "进件材料管家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "finance-verify-specialist",
+        "name": "财务核验专员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "financial-analysis-specialist",
+        "name": "财务分析专员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "enterprise-profiling-expert",
+        "name": "企业画像专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "business-analysis-expert",
+        "name": "经营分析专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "industry-analysis-expert",
+        "name": "行业分析专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "risk-compliance-expert",
+        "name": "风险总览专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "report-writer",
+        "name": "报告撰写专员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "EarningsReviewer",
+    "name": "财报研究员",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "earnings-reviewer",
+    "profile": "references/profiles/EarningsReviewer.md",
+    "description": "以财报研究员视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "EquityResearchExpert",
+    "name": "股票研究专家",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "equity-research",
+    "profile": "references/profiles/EquityResearchExpert.md",
+    "description": "以股票研究专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "FinResearchExpert",
+    "name": "股市投研分析师",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "fin-research-expert",
+    "profile": "references/profiles/FinResearchExpert.md",
+    "description": "以股市投研分析师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "FinanceAccountingExpert",
+    "name": "财务会计专家",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "finance",
+    "profile": "references/profiles/FinanceAccountingExpert.md",
+    "description": "以财务会计专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": "references/library/finance/07a5a9e2e5ddc046e96c.reference.md",
+    "status": "full-role",
+    "bundle_status": "open-role-text",
+    "members": []
+  },
+  {
+    "id": "FinancialModelingExpert",
+    "name": "金融建模专家",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "financial-analysis",
+    "profile": "references/profiles/FinancialModelingExpert.md",
+    "description": "以金融建模专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "FinancialTracker",
+    "name": "财务追踪师",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "financial-tracker",
+    "profile": "references/profiles/FinancialTracker.md",
+    "description": "以财务追踪师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "FsiMarketResearcher",
+    "name": "行业研究员",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "market-researcher",
+    "profile": "references/profiles/FsiMarketResearcher.md",
+    "description": "以行业研究员视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "FundResearchAnalyst",
+    "name": "基金投研分析师",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "fund-research-analyst",
+    "profile": "references/profiles/FundResearchAnalyst.md",
+    "description": "以基金投研分析师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "GlReconciler",
+    "name": "总账对账师",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "gl-reconciler",
+    "profile": "references/profiles/GlReconciler.md",
+    "description": "以总账对账师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "InvestmentBankingExpert",
+    "name": "投资银行专家",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "investment-banking",
+    "profile": "references/profiles/InvestmentBankingExpert.md",
+    "description": "以投资银行专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "InvestmentMastersTeam",
+    "name": "投资大师专家团",
+    "category": "08-FinanceInvestment",
+    "type": "team",
+    "plugin": "investment-masters-team",
+    "profile": "references/profiles/InvestmentMastersTeam.md",
+    "description": "以投资大师专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "hedge-fund-lead",
+        "name": "基金经理",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "oracle-of-omaha",
+        "name": "价值投资大师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "charlie-munger",
+        "name": "理性思维大师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "magellan-captain",
+        "name": "GARP成长投资大师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "the-big-short",
+        "name": "深度价值逆向投资大师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "black-swan-prophet",
+        "name": "反脆弱分析大师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "mama-wood",
+        "name": "颠覆性创新投资大师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ben-graham",
+        "name": "价值投资之父",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "wall-street-activist",
+        "name": "激进主义投资大师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "macro-king",
+        "name": "宏观投资大师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "dhandho-master",
+        "name": "Dhandho投资大师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "phil-fisher",
+        "name": "成长股投资大师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "dean-of-valuation",
+        "name": "估值教父",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "rakesh-jhunjhunwala",
+        "name": "新兴市场成长投资大师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "fundamentals-analyst",
+        "name": "基本面分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "technicals-analyst",
+        "name": "技术面分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "valuation-analyst",
+        "name": "估值分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "sentiment-analyst",
+        "name": "情绪分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "growth-analyst",
+        "name": "成长分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "news-sentiment-analyst",
+        "name": "新闻情绪分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "risk-manager",
+        "name": "风险管理师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "portfolio-manager",
+        "name": "投资组合经理",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "KycScreener",
+    "name": "客户合规官",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "kyc-screener",
+    "profile": "references/profiles/KycScreener.md",
+    "description": "以客户合规官视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MaiDealAdvisor",
+    "name": "项目来了，先把路理清",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "mai-deal-advisor",
+    "profile": "references/profiles/MaiDealAdvisor.md",
+    "description": "以项目来了，先把路理清视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MeetingPrepAgent",
+    "name": "会前准备助理",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "meeting-prep-agent",
+    "profile": "references/profiles/MeetingPrepAgent.md",
+    "description": "以会前准备助理视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ModelBuilder",
+    "name": "财务建模师",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "model-builder",
+    "profile": "references/profiles/ModelBuilder.md",
+    "description": "以财务建模师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MonthEndCloser",
+    "name": "月末结账会计",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "month-end-closer",
+    "profile": "references/profiles/MonthEndCloser.md",
+    "description": "以月末结账会计视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "NewShareExpert",
+    "name": "新股专家",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "new-share-expert",
+    "profile": "references/profiles/NewShareExpert.md",
+    "description": "以新股专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PitchAgent",
+    "name": "投行交易助理",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "pitch-agent",
+    "profile": "references/profiles/PitchAgent.md",
+    "description": "以投行交易助理视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PrivateEquityExpert",
+    "name": "私募股权专家",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "private-equity",
+    "profile": "references/profiles/PrivateEquityExpert.md",
+    "description": "以私募股权专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "RoadshowResearchTeam",
+    "name": "资本市场路演研究团",
+    "category": "08-FinanceInvestment",
+    "type": "team",
+    "plugin": "roadshow-research-team",
+    "profile": "references/profiles/RoadshowResearchTeam.md",
+    "description": "以资本市场路演研究团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "roadshow-team-lead",
+        "name": "研究主编",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "company-profiler",
+        "name": "基本面研究员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "material-parser",
+        "name": "多源材料解析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "industry-analyst",
+        "name": "行业研究员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "financials-analyst",
+        "name": "财务分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "roadshow-curator",
+        "name": "路演纪要分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "analyst-rating-tracker",
+        "name": "研报评级分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "capital-action-analyst",
+        "name": "资本运作分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "price-action-analyst",
+        "name": "行情分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "event-correlator",
+        "name": "事件关联分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "report-composer",
+        "name": "报告撰稿主编",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "SmartStockAnalyst",
+    "name": "多市场智能股票分析师",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "smart-stock-analyst",
+    "profile": "references/profiles/SmartStockAnalyst.md",
+    "description": "以多市场智能股票分析师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SmbFinance",
+    "name": "财务管家",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "smb-finance",
+    "profile": "references/profiles/SmbFinance.md",
+    "description": "以财务管家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "StatementAuditor",
+    "name": "LP 报表审核师",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "statement-auditor",
+    "profile": "references/profiles/StatementAuditor.md",
+    "description": "以LP 报表审核师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "StockPartnerTeam",
+    "name": "腾讯自选股股票投研专家团",
+    "category": "08-FinanceInvestment",
+    "type": "team",
+    "plugin": "stock-partner-team",
+    "profile": "references/profiles/StockPartnerTeam.md",
+    "description": "以腾讯自选股股票投研专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "stock-partner-lead",
+        "name": "投研主编",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "industry-strategist",
+        "name": "产业策略师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "signal-chief",
+        "name": "信号派首席",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "valuation-analyst",
+        "name": "估值分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "contrarian-investor",
+        "name": "逆向投资人",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "fundamental-researcher",
+        "name": "财报研究员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "shortterm-surfer",
+        "name": "短线冲浪手",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "StrategyBacktestExpert",
+    "name": "量化策略回测师",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "strategy-backtest-expert",
+    "profile": "references/profiles/StrategyBacktestExpert.md",
+    "description": "以量化策略回测师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TdxStockDiagnostician",
+    "name": "个股深度诊断师",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "tdx-stock-diagnostician",
+    "profile": "references/profiles/TdxStockDiagnostician.md",
+    "description": "以个股深度诊断师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TdxStockHunter",
+    "name": "智能选股猎手",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "tdx-stock-hunter",
+    "profile": "references/profiles/TdxStockHunter.md",
+    "description": "以智能选股猎手视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TdxValueAssessor",
+    "name": "价值评估师",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "tdx-value-assessor",
+    "profile": "references/profiles/TdxValueAssessor.md",
+    "description": "以价值评估师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TradingAgentTeam",
+    "name": "交易分析团队",
+    "category": "08-FinanceInvestment",
+    "type": "team",
+    "plugin": "trading-agent",
+    "profile": "references/profiles/TradingAgentTeam.md",
+    "description": "以交易分析团队视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "trading-team-lead",
+        "name": "首席策略官",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "market-analyst",
+        "name": "技术分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "fundamentals-analyst",
+        "name": "基本面分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "news-analyst",
+        "name": "新闻分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "sentiment-analyst",
+        "name": "情绪分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "bull-researcher",
+        "name": "多头研究员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "bear-researcher",
+        "name": "空头研究员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "research-manager",
+        "name": "研究主管",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "trader",
+        "name": "交易员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "aggressive-risk-analyst",
+        "name": "激进风险分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "conservative-risk-analyst",
+        "name": "保守风险分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "neutral-risk-analyst",
+        "name": "中性风险分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "risk-manager",
+        "name": "风险主管",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "ValuationReviewer",
+    "name": "组合估值主管",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "valuation-reviewer",
+    "profile": "references/profiles/ValuationReviewer.md",
+    "description": "以组合估值主管视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "VietnamFinanceTaxExpert",
+    "name": "越南财税金融专家",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "vietnam-finance-tax-expert",
+    "profile": "references/profiles/VietnamFinanceTaxExpert.md",
+    "description": "以越南财税金融专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "WealthManagementExpert",
+    "name": "财富管理专家",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "wealth-management",
+    "profile": "references/profiles/WealthManagementExpert.md",
+    "description": "以财富管理专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "YahooFinanceCli",
+    "name": "行情洞察与趋势发现专家",
+    "category": "08-FinanceInvestment",
+    "type": "agent",
+    "plugin": "yahoo-finance-cli",
+    "profile": "references/profiles/YahooFinanceCli.md",
+    "description": "以行情洞察与趋势发现专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  }
+]

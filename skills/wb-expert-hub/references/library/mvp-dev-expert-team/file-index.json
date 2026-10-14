@@ -1,0 +1,34 @@
+[
+  {
+    "source": "agents/mvp-dev-expert-team-architect.md",
+    "reference": "dbaa225abc0d2635a2b2.reference.md"
+  },
+  {
+    "source": "agents/mvp-dev-expert-team-backend.md",
+    "reference": "ce2d043d5c4636dd6a1c.reference.md"
+  },
+  {
+    "source": "agents/mvp-dev-expert-team-designer.md",
+    "reference": "a27f2e69490a237b4944.reference.md"
+  },
+  {
+    "source": "agents/mvp-dev-expert-team-devops.md",
+    "reference": "163a56de962377d653c2.reference.md"
+  },
+  {
+    "source": "agents/mvp-dev-expert-team-frontend.md",
+    "reference": "6694db519643729f92a7.reference.md"
+  },
+  {
+    "source": "agents/mvp-dev-expert-team-pm.md",
+    "reference": "1cd64d0fd910be1b6da3.reference.md"
+  },
+  {
+    "source": "agents/mvp-dev-expert-team-qa.md",
+    "reference": "52d027c91f4e023e5833.reference.md"
+  },
+  {
+    "source": "agents/mvp-dev-expert-team-team-lead.md",
+    "reference": "7ddf150cfc4a41d7c257.reference.md"
+  }
+]

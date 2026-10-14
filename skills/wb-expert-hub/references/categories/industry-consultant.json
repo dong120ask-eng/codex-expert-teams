@@ -1,0 +1,800 @@
+[
+  {
+    "id": "AskLiuxiaopai",
+    "name": "产品顾问",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "ask-liuxiaopai",
+    "profile": "references/profiles/AskLiuxiaopai.md",
+    "description": "以产品顾问视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ChaogeekKongming",
+    "name": "苏格拉底式AI思维搭子",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "chaogeek-kongming",
+    "profile": "references/profiles/ChaogeekKongming.md",
+    "description": "以苏格拉底式AI思维搭子视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ConsultingPartners",
+    "name": "战略咨询合伙人",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "consulting-partners",
+    "profile": "references/profiles/ConsultingPartners.md",
+    "description": "以战略咨询合伙人视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "EntrepreneurshipCoach",
+    "name": "创业伙伴",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "chuangye-manor",
+    "profile": "references/profiles/EntrepreneurshipCoach.md",
+    "description": "以创业伙伴视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "FamilyEducationMa",
+    "name": "家庭教育专家",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "family-education-ma",
+    "profile": "references/profiles/FamilyEducationMa.md",
+    "description": "以家庭教育专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "FbsirEightSeatBoard",
+    "name": "独董会",
+    "category": "12-IndustryConsultant",
+    "type": "team",
+    "plugin": "fbsir-eight-seat-board",
+    "profile": "references/profiles/FbsirEightSeatBoard.md",
+    "description": "以独董会视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "board-convener",
+        "name": "独立审议召集人",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "board-secretary",
+        "name": "独董会秘书",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "strategy-partner",
+        "name": "战略独立审议席",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "capital-partner",
+        "name": "资本财务独立审议席",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "growth-partner",
+        "name": "营销增长独立审议席",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "operations-partner",
+        "name": "制造运营独立审议席",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "org-partner",
+        "name": "组织人力独立审议席",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "legal-partner",
+        "name": "法务风控独立审议席",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "digital-partner",
+        "name": "数智化独立审议席",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "FbsirIndustrySceneResearcher",
+    "name": "行业场景研究员",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "fbsir-industry-scene-researcher",
+    "profile": "references/profiles/FbsirIndustrySceneResearcher.md",
+    "description": "以行业场景研究员视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": "references/library/fbsir-industry-scene-researcher/f87a40c83e6c670e17bd.reference.md",
+    "status": "full-role",
+    "bundle_status": "open-role-text",
+    "members": []
+  },
+  {
+    "id": "FbsirSuperIndependentBoard",
+    "name": "超级独董会",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "fbsir-super-independent-board",
+    "profile": "references/profiles/FbsirSuperIndependentBoard.md",
+    "description": "以超级独董会视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": "references/library/fbsir-super-independent-board/1a3413368f871134c65a.reference.md",
+    "status": "full-role",
+    "bundle_status": "open-role-text",
+    "members": []
+  },
+  {
+    "id": "FbsirSuperPartner",
+    "name": "超级合伙人|魔镜行动",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "fbsir-super-partner",
+    "profile": "references/profiles/FbsirSuperPartner.md",
+    "description": "以超级合伙人|魔镜行动视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": "references/library/fbsir-super-partner/39dc3215ddf2330b29fe.reference.md",
+    "status": "full-role",
+    "bundle_status": "open-role-text",
+    "members": []
+  },
+  {
+    "id": "FortuneConsultant",
+    "name": "赛博神算子",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "fortune-consultant",
+    "profile": "references/profiles/FortuneConsultant.md",
+    "description": "以赛博神算子视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "FortuneMaster",
+    "name": "严谨专业的命理咨询师",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "fortune-master",
+    "profile": "references/profiles/FortuneMaster.md",
+    "description": "以严谨专业的命理咨询师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "GaokaoAdvisor",
+    "name": "高考我帮你",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "gaokao-advisor",
+    "profile": "references/profiles/GaokaoAdvisor.md",
+    "description": "以高考我帮你视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "IndieFounderCoach",
+    "name": "独立创业教练",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "indie-founder-coach",
+    "profile": "references/profiles/IndieFounderCoach.md",
+    "description": "以独立创业教练视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "InnovationStartupMentor",
+    "name": "大学生创新创业导师",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "innovation-startup-mentor",
+    "profile": "references/profiles/InnovationStartupMentor.md",
+    "description": "以大学生创新创业导师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "JobCompanionTeam",
+    "name": "求职陪跑团",
+    "category": "12-IndustryConsultant",
+    "type": "team",
+    "plugin": "job-companion-team",
+    "profile": "references/profiles/JobCompanionTeam.md",
+    "description": "以求职陪跑团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "job-companion-team-lead",
+        "name": "陪跑总监",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "job-companion-resume",
+        "name": "定位师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "job-companion-interview",
+        "name": "面试导演",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "job-companion-negotiation",
+        "name": "薪酬谈判官",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "job-companion-reflection",
+        "name": "复盘策略师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "KetPrepTeam",
+    "name": "KET备考专家团",
+    "category": "12-IndustryConsultant",
+    "type": "team",
+    "plugin": "ket-prep-team",
+    "profile": "references/profiles/KetPrepTeam.md",
+    "description": "以KET备考专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "ket-prep-team-team-lead",
+        "name": "KET备考总督导",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ket-strategist",
+        "name": "首席规划与测评师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ket-foundation-builder",
+        "name": "词汇与语法基石专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ket-input-master",
+        "name": "听阅输入导师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ket-output-coach",
+        "name": "口笔输出导师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ket-tactician",
+        "name": "心态与实战辅导员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "LazyTravelPlanner",
+    "name": "懒人出游规划师",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "lazy-travel-planner",
+    "profile": "references/profiles/LazyTravelPlanner.md",
+    "description": "以懒人出游规划师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "LiuxueYanxueExpert",
+    "name": "留学研学专家",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "liuxue-yanxue-expert",
+    "profile": "references/profiles/LiuxueYanxueExpert.md",
+    "description": "以留学研学专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MentougouBusinessGuide",
+    "name": "门头沟区营商政策顾问",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "mentougou-business-guide",
+    "profile": "references/profiles/MentougouBusinessGuide.md",
+    "description": "以门头沟区营商政策顾问视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MetamorphosisPractitioner",
+    "name": "创业心态陪伴者",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "metamorphosis-practitioner",
+    "profile": "references/profiles/MetamorphosisPractitioner.md",
+    "description": "以创业心态陪伴者视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "OpcTeam",
+    "name": "一人公司专家团",
+    "category": "12-IndustryConsultant",
+    "type": "team",
+    "plugin": "opc-team",
+    "profile": "references/profiles/OpcTeam.md",
+    "description": "以一人公司专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "opc-team-lead",
+        "name": "首席编排师",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "opc-resource-auditor",
+        "name": "资源盘点师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "opc-niche-strategist",
+        "name": "利基定位师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "opc-value-designer",
+        "name": "价值主张设计师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "opc-model-architect",
+        "name": "商业模式架构师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "opc-mvp-designer",
+        "name": "MVP实验设计师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "opc-conversion-designer",
+        "name": "转化路径设计师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "opc-asset-strategist",
+        "name": "资产沉淀师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "opc-dashboard-reviewer",
+        "name": "经营复盘师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "PanshiCustomerVisitAgent",
+    "name": "跟进拜访助手",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "panshi-customer-visit-agent",
+    "profile": "references/profiles/PanshiCustomerVisitAgent.md",
+    "description": "以跟进拜访助手视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PaperTopicSelection",
+    "name": "选题顾问（WANFANG TOPIC）",
+    "category": "12-IndustryConsultant",
+    "type": "team",
+    "plugin": "paper-topic-selection",
+    "profile": "references/profiles/PaperTopicSelection.md",
+    "description": "以选题顾问（WANFANG TOPIC）视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "huangfu-evaluation",
+        "name": "选题评估师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ouyang-literature",
+        "name": "文献侦察员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "shangguan-topic",
+        "name": "选题策略师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "situ-inspiration",
+        "name": "趋势分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "taishi-report",
+        "name": "领域分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "xiahou-title",
+        "name": "标题生成师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "zhuge-consultant",
+        "name": "选题参谋长",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "PersonalFitnessCoach",
+    "name": "私人健身营养教练",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "personal-fitness-coach",
+    "profile": "references/profiles/PersonalFitnessCoach.md",
+    "description": "以私人健身营养教练视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SkillhubCharityExpertTeam",
+    "name": "技术公益专家团",
+    "category": "12-IndustryConsultant",
+    "type": "team",
+    "plugin": "skillhub-charity-expert-team",
+    "profile": "references/profiles/SkillhubCharityExpertTeam.md",
+    "description": "以技术公益专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "skillhub-manager",
+        "name": "首席协调官",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "skillhub-solution-architect",
+        "name": "解决方案专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "skillhub-icon-designer",
+        "name": "图标设计专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "skillhub-security-tester",
+        "name": "安全测试专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "skillhub-social-value-evaluator",
+        "name": "社会价值评审专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "skillhub-operation-expert",
+        "name": "活动运营专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "skillhub-ops-expert",
+        "name": "运维专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "SmbTeam",
+    "name": "经营总管",
+    "category": "12-IndustryConsultant",
+    "type": "team",
+    "plugin": "smb-team",
+    "profile": "references/profiles/SmbTeam.md",
+    "description": "以经营总管视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "smb-team-lead",
+        "name": "经营总管",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "smb-finance-member",
+        "name": "财务管家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "smb-revenue-member",
+        "name": "营收增长师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "smb-compliance-member",
+        "name": "客户与合规官",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "smb-ops-member",
+        "name": "组织运营师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "SouthAfricaStrategyAdvisor",
+    "name": "南非战略顾问专家",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "south-africa-strategy-advisor",
+    "profile": "references/profiles/SouthAfricaStrategyAdvisor.md",
+    "description": "以南非战略顾问专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "StudyPlanner",
+    "name": "学习规划师",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "study-planner",
+    "profile": "references/profiles/StudyPlanner.md",
+    "description": "以学习规划师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TanyuanCulturalHeritageExpert",
+    "name": "腾讯探元文博专家",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "tanyuan-cultural-heritage-expert",
+    "profile": "references/profiles/TanyuanCulturalHeritageExpert.md",
+    "description": "以腾讯探元文博专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TcChengxinTravelExpert",
+    "name": "同程旅行助手",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "tc-chengxin-travel-expert",
+    "profile": "references/profiles/TcChengxinTravelExpert.md",
+    "description": "以同程旅行助手视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TerminalVeteran",
+    "name": "终端产业分析师",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "terminal-veteran",
+    "profile": "references/profiles/TerminalVeteran.md",
+    "description": "以终端产业分析师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TripStarAgent",
+    "name": "旅游攻略管家",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "tripstar-agent",
+    "profile": "references/profiles/TripStarAgent.md",
+    "description": "以旅游攻略管家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "VietnamPublicAffairs",
+    "name": "越南公共事务专家",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "vietnam-public-affairs",
+    "profile": "references/profiles/VietnamPublicAffairs.md",
+    "description": "以越南公共事务专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "WorkbuddyUniversalMentor",
+    "name": "WorkBuddy 全能导师",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "workbuddy-universal-mentor",
+    "profile": "references/profiles/WorkbuddyUniversalMentor.md",
+    "description": "以WorkBuddy 全能导师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "WorldcupBuddy",
+    "name": "世界杯看球搭子",
+    "category": "12-IndustryConsultant",
+    "type": "agent",
+    "plugin": "worldcup-buddy",
+    "profile": "references/profiles/WorldcupBuddy.md",
+    "description": "以世界杯看球搭子视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  }
+]

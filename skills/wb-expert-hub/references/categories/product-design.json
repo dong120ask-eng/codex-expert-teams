@@ -1,0 +1,348 @@
+[
+  {
+    "id": "AdortDesignExpert",
+    "name": "Ardot 设计专家",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "adort-design-expert",
+    "profile": "references/profiles/AdortDesignExpert.md",
+    "description": "以Ardot 设计专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "AiImagePromptEngineer",
+    "name": "AI图像提示词工程师",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "ai-image-prompt-engineer",
+    "profile": "references/profiles/AiImagePromptEngineer.md",
+    "description": "以AI图像提示词工程师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "BehavioralNudgeEngine",
+    "name": "行为助推引擎",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "behavioral-nudge-engine",
+    "profile": "references/profiles/BehavioralNudgeEngine.md",
+    "description": "以行为助推引擎视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "CloudRequirementExpert",
+    "name": "云产品需求专家",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "cloud-requirement-expert",
+    "profile": "references/profiles/CloudRequirementExpert.md",
+    "description": "以云产品需求专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DelightfulExperienceDesigner",
+    "name": "趣味体验设计师",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "delightful-experience-designer",
+    "profile": "references/profiles/DelightfulExperienceDesigner.md",
+    "description": "以趣味体验设计师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DesignEngineTeam",
+    "name": "设计原型专家团",
+    "category": "01-ProductDesign",
+    "type": "team",
+    "plugin": "design-engine",
+    "profile": "references/profiles/DesignEngineTeam.md",
+    "description": "以设计原型专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "design-engine-team-lead",
+        "name": "设计编排师",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "evidence exchange-analyst",
+        "name": "需求发现分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "design-system-expert",
+        "name": "设计系统专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "prototype-builder",
+        "name": "原型构建师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "critique-reviewer",
+        "name": "质量审查官",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "export-specialist",
+        "name": "导出交付专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "DesignMdArchitect",
+    "name": "设计系统架构师",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "design-md-architect",
+    "profile": "references/profiles/DesignMdArchitect.md",
+    "description": "以设计系统架构师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DesignPrototypeExpert",
+    "name": "设计工作室主理人",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "design-prototype-expert",
+    "profile": "references/profiles/DesignPrototypeExpert.md",
+    "description": "以设计工作室主理人视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DesignToCodeExpert",
+    "name": "设计转代码专家",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "design-to-code",
+    "profile": "references/profiles/DesignToCodeExpert.md",
+    "description": "以设计转代码专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DiversityVisualExpert",
+    "name": "多元视觉专家",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "diversity-visual-expert",
+    "profile": "references/profiles/DiversityVisualExpert.md",
+    "description": "以多元视觉专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "FeedbackSynthesisAnalyst",
+    "name": "反馈综合分析师",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "feedback-synthesis-analyst",
+    "profile": "references/profiles/FeedbackSynthesisAnalyst.md",
+    "description": "以反馈综合分析师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MermaidDiagramExpert",
+    "name": "图表设计与渲染专家",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "mermaid-diagram-expert",
+    "profile": "references/profiles/MermaidDiagramExpert.md",
+    "description": "以图表设计与渲染专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "NgoChallengeAdvisor",
+    "name": "NGO 共創卡設計助手",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "ngo-challenge-advisor",
+    "profile": "references/profiles/NgoChallengeAdvisor.md",
+    "description": "以NGO 共創卡設計助手视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ProductManagementExpert",
+    "name": "产品管理专家",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "product-management",
+    "profile": "references/profiles/ProductManagementExpert.md",
+    "description": "以产品管理专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": "references/library/product-management/002d6080e22b77d32568.reference.md",
+    "status": "full-role",
+    "bundle_status": "open-role-text",
+    "members": []
+  },
+  {
+    "id": "ProductStrategyTeam",
+    "name": "产品战略团队",
+    "category": "01-ProductDesign",
+    "type": "team",
+    "plugin": "product-strategy-team",
+    "profile": "references/profiles/ProductStrategyTeam.md",
+    "description": "以产品战略团队视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "product-director",
+        "name": "产品舵手",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "requirement-analyst",
+        "name": "需求分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "user-researcher",
+        "name": "用户研究员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "competitive-analyst",
+        "name": "竞品分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "data-analyst",
+        "name": "数据分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "roadmap-planner",
+        "name": "路线图规划师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "SprintPriorityManager",
+    "name": "迭代优先级管理者",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "sprint-priority-manager",
+    "profile": "references/profiles/SprintPriorityManager.md",
+    "description": "以迭代优先级管理者视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "UiDesigner",
+    "name": "UI设计师",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "ui-designer",
+    "profile": "references/profiles/UiDesigner.md",
+    "description": "以UI设计师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "UserExperienceArchitect",
+    "name": "用户体验架构师",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "user-experience-architect",
+    "profile": "references/profiles/UserExperienceArchitect.md",
+    "description": "以用户体验架构师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "UserExperienceResearcher",
+    "name": "用户体验研究员",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "user-experience-researcher",
+    "profile": "references/profiles/UserExperienceResearcher.md",
+    "description": "以用户体验研究员视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "VisualStorytellingExpert",
+    "name": "视觉叙事专家",
+    "category": "01-ProductDesign",
+    "type": "agent",
+    "plugin": "visual-storytelling-expert",
+    "profile": "references/profiles/VisualStorytellingExpert.md",
+    "description": "以视觉叙事专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  }
+]

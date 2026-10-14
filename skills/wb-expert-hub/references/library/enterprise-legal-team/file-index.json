@@ -1,0 +1,38 @@
+[
+  {
+    "source": "agents/ai-governance-counsel.md",
+    "reference": "79ece4af778bda71a954.reference.md"
+  },
+  {
+    "source": "agents/commercial-contracts-counsel.md",
+    "reference": "e34041581b2414336001.reference.md"
+  },
+  {
+    "source": "agents/corporate-ma-counsel.md",
+    "reference": "64cdd759d8be825ee7a8.reference.md"
+  },
+  {
+    "source": "agents/employment-law-counsel.md",
+    "reference": "8ebd09e04bdff8d95ab0.reference.md"
+  },
+  {
+    "source": "agents/enterprise-legal-lead.md",
+    "reference": "b007cc56a6d1edce97f3.reference.md"
+  },
+  {
+    "source": "agents/ip-portfolio-counsel.md",
+    "reference": "9a33c89f3d5792547771.reference.md"
+  },
+  {
+    "source": "agents/privacy-data-counsel.md",
+    "reference": "27599732abe6d1f083fb.reference.md"
+  },
+  {
+    "source": "agents/product-legal-counsel.md",
+    "reference": "b8c50a14cb309a760caf.reference.md"
+  },
+  {
+    "source": "agents/regulatory-compliance-counsel.md",
+    "reference": "6263d149a06d48625e3b.reference.md"
+  }
+]

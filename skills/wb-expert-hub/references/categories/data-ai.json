@@ -1,0 +1,796 @@
+[
+  {
+    "id": "AcademicJournalSelector",
+    "name": "学术选刊顾问团 v3.1",
+    "category": "04-DataAI",
+    "type": "team",
+    "plugin": "academic-journal-selector",
+    "profile": "references/profiles/AcademicJournalSelector.md",
+    "description": "以学术选刊顾问团 v3.1视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "academic-journal-selector-team-lead",
+        "name": "选刊主编",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "cn-pipeline-scout",
+        "name": "中文刊猎手",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "cn-pipeline-matcher",
+        "name": "中文刊匹配师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "en-pipeline-scout",
+        "name": "外文刊猎手",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "en-pipeline-matcher",
+        "name": "外文刊匹配师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "paper-reviewer",
+        "name": "评审模拟专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "AiDataCopilot",
+    "name": "智数分析专家团",
+    "category": "04-DataAI",
+    "type": "team",
+    "plugin": "ai-data-copilot",
+    "profile": "references/profiles/AiDataCopilot.md",
+    "description": "以智数分析专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "copilot-team-lead",
+        "name": "首席数据编排师",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "sql-analyst",
+        "name": "SQL查询架构师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "data-scientist",
+        "name": "数据科学工程师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "knowledge-researcher",
+        "name": "知识检索专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "dashboard-designer",
+        "name": "可视化分析设计师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "report-composer",
+        "name": "洞察报告撰写师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "AiEngineer",
+    "name": "AI工程师",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "ai-engineer",
+    "profile": "references/profiles/AiEngineer.md",
+    "description": "以AI工程师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "AiHot",
+    "name": "资讯速递专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "aihot",
+    "profile": "references/profiles/AiHot.md",
+    "description": "以资讯速递专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ArxivWatcher",
+    "name": "ArXiv论文追踪专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "arxiv-watcher",
+    "profile": "references/profiles/ArxivWatcher.md",
+    "description": "以ArXiv论文追踪专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "AutonomousOptimizationArchitect",
+    "name": "自主优化架构师",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "autonomous-optimization-architect",
+    "profile": "references/profiles/AutonomousOptimizationArchitect.md",
+    "description": "以自主优化架构师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DataAnalysisExpert",
+    "name": "数据分析专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "data-analysis",
+    "profile": "references/profiles/DataAnalysisExpert.md",
+    "description": "以数据分析专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DataAnalyticsReporter",
+    "name": "数据分析报告师",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "data-analytics-reporter",
+    "profile": "references/profiles/DataAnalyticsReporter.md",
+    "description": "以数据分析报告师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DataEngineer",
+    "name": "数据工程师",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "data-engineer",
+    "profile": "references/profiles/DataEngineer.md",
+    "description": "以数据工程师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DataExplorationExpert",
+    "name": "数据探索专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "data",
+    "profile": "references/profiles/DataExplorationExpert.md",
+    "description": "以数据探索专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DataIntegrationAgent",
+    "name": "数据整合代理",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "data-integration-agent",
+    "profile": "references/profiles/DataIntegrationAgent.md",
+    "description": "以数据整合代理视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DatabaseOptimizationExpert",
+    "name": "数据库优化专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "database-optimization-expert",
+    "profile": "references/profiles/DatabaseOptimizationExpert.md",
+    "description": "以数据库优化专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DatabrainOpinionExpert",
+    "name": "DataBrain舆情分析专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "databrain-opinion-expert",
+    "profile": "references/profiles/DatabrainOpinionExpert.md",
+    "description": "以DataBrain舆情分析专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DeepResearchExpert",
+    "name": "深度研究专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "deep-research",
+    "profile": "references/profiles/DeepResearchExpert.md",
+    "description": "以深度研究专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "EmpiricalResearchTeam",
+    "name": "科研专家团",
+    "category": "04-DataAI",
+    "type": "team",
+    "plugin": "empirical-research-team",
+    "profile": "references/profiles/EmpiricalResearchTeam.md",
+    "description": "以科研专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "empirical-research-team-team-lead",
+        "name": "研究总编排",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "causal-analyst",
+        "name": "计量经济学家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "data-engineer",
+        "name": "数据工程师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "robustness-auditor",
+        "name": "稳健性审计师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "academic-writer",
+        "name": "学术写作专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "deaigc-reviewer",
+        "name": "降AIGC与审稿模拟",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "lit-reviewer",
+        "name": "文献综述专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "topic-refiner",
+        "name": "选题精炼专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "FinanceDataExpert",
+    "name": "金融数据检索专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "finance-data",
+    "profile": "references/profiles/FinanceDataExpert.md",
+    "description": "以金融数据检索专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "FundusDiseaseAnalysis",
+    "name": "腾讯健康-觅影-眼底彩照疾病分析专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "fundus-disease-analysis",
+    "profile": "references/profiles/FundusDiseaseAnalysis.md",
+    "description": "以腾讯健康-觅影-眼底彩照疾病分析专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "GPTResearcherTeam",
+    "name": "深度研究团队",
+    "category": "04-DataAI",
+    "type": "team",
+    "plugin": "gpt-researcher-team",
+    "profile": "references/profiles/GPTResearcherTeam.md",
+    "description": "以深度研究团队视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "research-chief-editor",
+        "name": "研究主编",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "research-planner",
+        "name": "研究编辑",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "topic-researcher",
+        "name": "课题研究员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "draft-reviewer",
+        "name": "草稿审稿人",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "draft-reviser",
+        "name": "内容修订员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "report-writer",
+        "name": "报告撰写人",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "report-publisher",
+        "name": "报告发布员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "HuashuDataPro",
+    "name": "花叔数据分析专家团",
+    "category": "04-DataAI",
+    "type": "team",
+    "plugin": "huashu-data-pro",
+    "profile": "references/profiles/HuashuDataPro.md",
+    "description": "以花叔数据分析专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "huashu-data-pro-team-lead",
+        "name": "数据洞察总监",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "trend-analyst",
+        "name": "时间序列与拐点识别",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "structure-analyst",
+        "name": "多表交叉与构成拆解",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "anomaly-analyst",
+        "name": "离群点扫描与风险标记",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "JinshujuExpert",
+    "name": "金数据表单与数据管理专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "jinshuju-expert",
+    "profile": "references/profiles/JinshujuExpert.md",
+    "description": "以金数据表单与数据管理专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "JinshujuFormExpert",
+    "name": "金数据表单助手",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "jinshuju-form-expert",
+    "profile": "references/profiles/JinshujuFormExpert.md",
+    "description": "以金数据表单助手视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "JinshujuTableExpert",
+    "name": "金数据AI表格助手",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "jinshuju-table-expert",
+    "profile": "references/profiles/JinshujuTableExpert.md",
+    "description": "以金数据AI表格助手视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "KdocsDataTable",
+    "name": "数据建表专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "kdocs-data-table",
+    "profile": "references/profiles/KdocsDataTable.md",
+    "description": "以数据建表专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "LlmWiki",
+    "name": "知识管理专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "llm-wiki",
+    "profile": "references/profiles/LlmWiki.md",
+    "description": "以知识管理专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "MibaoMediaArchivist",
+    "name": "AI影像资产整理专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "mibao-media-archivist",
+    "profile": "references/profiles/MibaoMediaArchivist.md",
+    "description": "以AI影像资产整理专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ModelQualityAssuranceExpert",
+    "name": "模型质量保障专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "model-quality-assurance-expert",
+    "profile": "references/profiles/ModelQualityAssuranceExpert.md",
+    "description": "以模型质量保障专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "Nuwa",
+    "name": "思维蒸馏师",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "nuwa",
+    "profile": "references/profiles/Nuwa.md",
+    "description": "以思维蒸馏师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "OmicsBioinfoExpert",
+    "name": "腾讯组学生信分析专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "omics-bioinfo-expert",
+    "profile": "references/profiles/OmicsBioinfoExpert.md",
+    "description": "以腾讯组学生信分析专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "OmicsCdgptExpert",
+    "name": "腾讯CD-GPT生物序列建模专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "omics-cdgpt-expert",
+    "profile": "references/profiles/OmicsCdgptExpert.md",
+    "description": "以腾讯CD-GPT生物序列建模专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "OmicsDiagnosisExpert",
+    "name": "腾讯组学任务分析智能诊断专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "omics-diagnosis-expert",
+    "profile": "references/profiles/OmicsDiagnosisExpert.md",
+    "description": "以腾讯组学任务分析智能诊断专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "OmicsIggmExpert",
+    "name": "腾讯IgGM抗体药物研发专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "omics-iggm-expert",
+    "profile": "references/profiles/OmicsIggmExpert.md",
+    "description": "以腾讯IgGM抗体药物研发专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "OmicsOriExpert",
+    "name": "腾讯ORI多功能酶设计专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "omics-ori-expert",
+    "profile": "references/profiles/OmicsOriExpert.md",
+    "description": "以腾讯ORI多功能酶设计专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "OmicsScbertExpert",
+    "name": "腾讯scBert单细胞预训练专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "omics-scbert-expert",
+    "profile": "references/profiles/OmicsScbertExpert.md",
+    "description": "以腾讯scBert单细胞预训练专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "OmicsScproteinExpert",
+    "name": "腾讯scPROTEIN单细胞蛋白组建模专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "omics-scprotein-expert",
+    "profile": "references/profiles/OmicsScproteinExpert.md",
+    "description": "以腾讯scPROTEIN单细胞蛋白组建模专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "OmicsTfoldExpert",
+    "name": "腾讯tFold抗体结构预测专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "omics-tfold-expert",
+    "profile": "references/profiles/OmicsTfoldExpert.md",
+    "description": "以腾讯tFold抗体结构预测专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PersonalKnowledgeArchitect",
+    "name": "个人知识库架构师",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "personal-knowledge-architect",
+    "profile": "references/profiles/PersonalKnowledgeArchitect.md",
+    "description": "以个人知识库架构师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PneumoniaAiAnalyst",
+    "name": "基于CT序列的肺炎AI辅助诊断分析",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "pneumonia-ai-analyst",
+    "profile": "references/profiles/PneumoniaAiAnalyst.md",
+    "description": "以基于CT序列的肺炎AI辅助诊断分析视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PromptEngineeringExpert",
+    "name": "AI提示词工程专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "prompt-engineering-expert",
+    "profile": "references/profiles/PromptEngineeringExpert.md",
+    "description": "以AI提示词工程专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "SalesDataExtractionAgent",
+    "name": "销售数据提取代理",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "sales-data-extraction-agent",
+    "profile": "references/profiles/SalesDataExtractionAgent.md",
+    "description": "以销售数据提取代理视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TideriderSentiment",
+    "name": "游戏舆情分析师",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "tiderider-sentiment",
+    "profile": "references/profiles/TideriderSentiment.md",
+    "description": "以游戏舆情分析师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TrendResearcher",
+    "name": "行业趋势专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "trend-researcher",
+    "profile": "references/profiles/TrendResearcher.md",
+    "description": "以行业趋势专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "VocabCraftExpert",
+    "name": "智能词汇教练",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "vocab-craft-expert",
+    "profile": "references/profiles/VocabCraftExpert.md",
+    "description": "以智能词汇教练视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "Wentu",
+    "name": "腾讯地图数据问数助手",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "wentu",
+    "profile": "references/profiles/Wentu.md",
+    "description": "以腾讯地图数据问数助手视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "YunzhiQaAssistant",
+    "name": "腾讯云知识问答专家",
+    "category": "04-DataAI",
+    "type": "agent",
+    "plugin": "yunzhi-qa-assistant",
+    "profile": "references/profiles/YunzhiQaAssistant.md",
+    "description": "以腾讯云知识问答专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  }
+]

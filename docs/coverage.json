@@ -1,0 +1,13 @@
+{
+  "catalog_entries": 448,
+  "teams": 54,
+  "categories": 15,
+  "open_role_definitions": 15,
+  "catalog_only_entries": 433,
+  "permissive_source_packages": 15,
+  "redistributed_source_paths": [
+    "agents/*.md"
+  ],
+  "third_party_services": "not-connected",
+  "model_weights": "not-included"
+}

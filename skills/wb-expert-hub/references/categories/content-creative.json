@@ -1,0 +1,892 @@
+[
+  {
+    "id": "AIShifuExpert",
+    "name": "AI师傅课程制作专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "ai-shifu-expert",
+    "profile": "references/profiles/AIShifuExpert.md",
+    "description": "以AI师傅课程制作专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "AiContentCreatorTeam",
+    "name": "内容创作专家团",
+    "category": "06-ContentCreative",
+    "type": "team",
+    "plugin": "ai-content-creator-team",
+    "profile": "references/profiles/AiContentCreatorTeam.md",
+    "description": "以内容创作专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "ai-content-creator-team-lead",
+        "name": "创意总监",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "creative-strategist",
+        "name": "创意策划师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "copywriter",
+        "name": "文案创作专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "video-generator",
+        "name": "视频生成专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "image-creator",
+        "name": "图文创作专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "video-editor",
+        "name": "视频编辑专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "content-adapter",
+        "name": "素材改编专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "AiHumanizer",
+    "name": "AI痕迹消除专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "ai-humanizer",
+    "profile": "references/profiles/AiHumanizer.md",
+    "description": "以AI痕迹消除专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "AiShifu",
+    "name": "AI师傅课程制作专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "ai-shifu",
+    "profile": "references/profiles/AiShifu.md",
+    "description": "以AI师傅课程制作专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "AiVideoScript",
+    "name": "AI视频脚本创作专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "ai-video-script",
+    "profile": "references/profiles/AiVideoScript.md",
+    "description": "以AI视频脚本创作专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "BilibiliContentStrategist",
+    "name": "B站内容策略师",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "bilibili-content-strategist",
+    "profile": "references/profiles/BilibiliContentStrategist.md",
+    "description": "以B站内容策略师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "BookCoCreator",
+    "name": "图书联合创作者",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "book-co-creator",
+    "profile": "references/profiles/BookCoCreator.md",
+    "description": "以图书联合创作者视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ChatcutVideoEditor",
+    "name": "ChatCut 视频剪辑师",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "chatcut-video-editor",
+    "profile": "references/profiles/ChatcutVideoEditor.md",
+    "description": "以ChatCut 视频剪辑师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ContentCreationExpertProd",
+    "name": "汽车行业内容创作专家团",
+    "category": "06-ContentCreative",
+    "type": "team",
+    "plugin": "content-creation-expert-prod",
+    "profile": "references/profiles/ContentCreationExpertProd.md",
+    "description": "以汽车行业内容创作专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "content-creation-expert-prod-team-lead",
+        "name": "内容总监",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "brief-researcher",
+        "name": "选题研究官",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "auto-writer",
+        "name": "汽车主笔",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "visual-director",
+        "name": "视觉总监",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "quality-editor",
+        "name": "内容质检官",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "ContentCreator",
+    "name": "内容创作专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "content-creator",
+    "profile": "references/profiles/ContentCreator.md",
+    "description": "以内容创作专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ContentDistributionTeam",
+    "name": "全域内容分发专家团",
+    "category": "06-ContentCreative",
+    "type": "team",
+    "plugin": "content-distribution-team",
+    "profile": "references/profiles/ContentDistributionTeam.md",
+    "description": "以全域内容分发专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "content-distribution-team-lead",
+        "name": "分发策略师",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "domestic-platform-expert",
+        "name": "国内平台专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "international-platform-expert",
+        "name": "国际平台专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "scheduling-specialist",
+        "name": "排期运营专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "distribution-analyst",
+        "name": "分发数据分析师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "ContentWriter",
+    "name": "自媒体内容写作专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "content-writer",
+    "profile": "references/profiles/ContentWriter.md",
+    "description": "以自媒体内容写作专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "DouyinStrategist",
+    "name": "抖音策略师",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "douyin-strategist",
+    "profile": "references/profiles/DouyinStrategist.md",
+    "description": "以抖音策略师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "FbsirMomDialogueExpert",
+    "name": "妈妈问答",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "fbsir-mom-dialogue-expert",
+    "profile": "references/profiles/FbsirMomDialogueExpert.md",
+    "description": "以妈妈问答视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "FrontendSlides",
+    "name": "HTML幻灯片制作专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "frontend-slides",
+    "profile": "references/profiles/FrontendSlides.md",
+    "description": "以HTML幻灯片制作专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "HumanizePptTeam",
+    "name": "卡尔的人感PPT专家团",
+    "category": "06-ContentCreative",
+    "type": "team",
+    "plugin": "humanize-ppt-team",
+    "profile": "references/profiles/HumanizePptTeam.md",
+    "description": "以卡尔的人感PPT专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "humanize-ppt-team-lead",
+        "name": "主理人与调度官",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "outline-director",
+        "name": "AST大纲导演 / humanize-ppt",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "guizang-renderer",
+        "name": "中文稳定版HTML PPT / guizang-ppt-skill",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "frontend-slides-renderer",
+        "name": "风格探索与可上线HTML Slides / frontend-slides",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "video-motion-agent",
+        "name": "视频与动效 / remotion-video-toolkit",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "html-ppt-presenter",
+        "name": "演讲模式 / html-ppt",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "qa",
+        "name": "交付质检 / 无Skill",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "InstagramOperationsExpert",
+    "name": "Instagram运营专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "instagram-operations-expert",
+    "profile": "references/profiles/InstagramOperationsExpert.md",
+    "description": "以Instagram运营专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "KdocsDocButler",
+    "name": "文档管家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "kdocs-doc-butler",
+    "profile": "references/profiles/KdocsDocButler.md",
+    "description": "以文档管家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "KdocsKnowledgeCollector",
+    "name": "知识收藏专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "kdocs-knowledge-collector",
+    "profile": "references/profiles/KdocsKnowledgeCollector.md",
+    "description": "以知识收藏专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "KdocsPdfToolbox",
+    "name": "PDF 处理专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "kdocs-pdf-toolbox",
+    "profile": "references/profiles/KdocsPdfToolbox.md",
+    "description": "以PDF 处理专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "KdocsPptCreator",
+    "name": "PPT 创作专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "kdocs-ppt-creator",
+    "profile": "references/profiles/KdocsPptCreator.md",
+    "description": "以PPT 创作专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "KiddContentExpert",
+    "name": "知识视频创作专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "kidd-content-expert",
+    "profile": "references/profiles/KiddContentExpert.md",
+    "description": "以知识视频创作专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "KuaishouStrategist",
+    "name": "快手策略师",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "kuaishou-strategist",
+    "profile": "references/profiles/KuaishouStrategist.md",
+    "description": "以快手策略师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "LexiangPptExpert",
+    "name": "演示文稿设计与生成顾问",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "ppt-creation-expert",
+    "profile": "references/profiles/LexiangPptExpert.md",
+    "description": "以演示文稿设计与生成顾问视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "LongManuscriptExpert",
+    "name": "长文档写作与改稿专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "long-manuscript-expert",
+    "profile": "references/profiles/LongManuscriptExpert.md",
+    "description": "以长文档写作与改稿专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": "references/library/long-manuscript-expert/acc4af9147ade4363ccb.reference.md",
+    "status": "full-role",
+    "bundle_status": "open-role-text",
+    "members": []
+  },
+  {
+    "id": "NewsBriefingExpert",
+    "name": "私人新闻主编",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "news-briefing-expert",
+    "profile": "references/profiles/NewsBriefingExpert.md",
+    "description": "以私人新闻主编视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "NewsBuddy",
+    "name": "资讯顾问",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "news-buddy",
+    "profile": "references/profiles/NewsBuddy.md",
+    "description": "以资讯顾问视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "NovelCreator",
+    "name": "世界观架构师 / 连续性编辑",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "novel-creator",
+    "profile": "references/profiles/NovelCreator.md",
+    "description": "以世界观架构师 / 连续性编辑视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "NovelGenerator",
+    "name": "爽文小说生成专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "novel-generator",
+    "profile": "references/profiles/NovelGenerator.md",
+    "description": "以爽文小说生成专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PodcastStrategist",
+    "name": "播客策略师",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "podcast-strategist",
+    "profile": "references/profiles/PodcastStrategist.md",
+    "description": "以播客策略师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PptCreationExpert",
+    "name": "腾讯云PPT制作专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "ppt-creation-expert",
+    "profile": "references/profiles/PptCreationExpert.md",
+    "description": "以腾讯云PPT制作专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "PromoCreatorTeam",
+    "name": "宣传片创作团队",
+    "category": "06-ContentCreative",
+    "type": "team",
+    "plugin": "promo-creator-team",
+    "profile": "references/profiles/PromoCreatorTeam.md",
+    "description": "以宣传片创作团队视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "promo-team-lead",
+        "name": "制片人",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "brief-strategist",
+        "name": "创意策略师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "storyboard-artist",
+        "name": "分镜师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "asset-producer",
+        "name": "素材制作人",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "video-editor",
+        "name": "剪辑师兼动效师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "music-director",
+        "name": "音乐总监",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "RemotionVideoExpert",
+    "name": "视频生成专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "remotion-video-generator",
+    "profile": "references/profiles/RemotionVideoExpert.md",
+    "description": "以视频生成专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ShortVideoEditingCoach",
+    "name": "短视频剪辑教练",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "short-video-editing-coach",
+    "profile": "references/profiles/ShortVideoEditingCoach.md",
+    "description": "以短视频剪辑教练视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TietuToutiao",
+    "name": "媒体头图编辑",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "tietu-toutiao",
+    "profile": "references/profiles/TietuToutiao.md",
+    "description": "以媒体头图编辑视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TikTokStrategist",
+    "name": "TikTok策略师",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "tik-tok-strategist",
+    "profile": "references/profiles/TikTokStrategist.md",
+    "description": "以TikTok策略师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TopicEvaluator",
+    "name": "科技频道选题评估师",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "topic-evaluator",
+    "profile": "references/profiles/TopicEvaluator.md",
+    "description": "以科技频道选题评估师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "TwitterOperationsExpert",
+    "name": "Twitter运营专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "twitter-operations-expert",
+    "profile": "references/profiles/TwitterOperationsExpert.md",
+    "description": "以Twitter运营专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "VibeknowDesignVideo",
+    "name": "VibeKnow 视频专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "vibeknow-design-video",
+    "profile": "references/profiles/VibeknowDesignVideo.md",
+    "description": "以VibeKnow 视频专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "VibeknowHanddraw",
+    "name": "VibeKnow 手绘视频专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "vibeknow-handdraw",
+    "profile": "references/profiles/VibeknowHanddraw.md",
+    "description": "以VibeKnow 手绘视频专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "VibeknowPptExplain",
+    "name": "VibeKnow PPT/PDF讲解大师",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "vibeknow-ppt-explain",
+    "profile": "references/profiles/VibeknowPptExplain.md",
+    "description": "以VibeKnow PPT/PDF讲解大师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "VideoDissection",
+    "name": "视频解剖专家团",
+    "category": "06-ContentCreative",
+    "type": "team",
+    "plugin": "video-dissection",
+    "profile": "references/profiles/VideoDissection.md",
+    "description": "以视频解剖专家团视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "video-dissection-team-lead",
+        "name": "主理人·视频策略总监",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "video-extractor",
+        "name": "视频提取工程师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "script-analyst",
+        "name": "拍摄脚本分析专家",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "VideoGenTeam",
+    "name": "AI视频创作团队",
+    "category": "06-ContentCreative",
+    "type": "team",
+    "plugin": "video-gen-team",
+    "profile": "references/profiles/VideoGenTeam.md",
+    "description": "以AI视频创作团队视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": [
+      {
+        "id": "video-gen-team-lead",
+        "name": "视频生成团队主理人",
+        "role": "lead",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ling-reader",
+        "name": "信息采集员",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ling-planner",
+        "name": "内容策划师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      },
+      {
+        "id": "ling-producer",
+        "name": "视频制作师",
+        "role": "member",
+        "methodology": null,
+        "status": "catalog-only"
+      }
+    ]
+  },
+  {
+    "id": "ViralTopicMaster",
+    "name": "爆款选题策划专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "viral-topic-master",
+    "profile": "references/profiles/ViralTopicMaster.md",
+    "description": "以爆款选题策划专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "WechatOfficialAccountExpert",
+    "name": "微信公众号运营专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "wechat-official-account-expert",
+    "profile": "references/profiles/WechatOfficialAccountExpert.md",
+    "description": "以微信公众号运营专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "WeiboStrategist",
+    "name": "微博策略师",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "weibo-strategist",
+    "profile": "references/profiles/WeiboStrategist.md",
+    "description": "以微博策略师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "XiaohongshuOperationsExpert",
+    "name": "小红书运营专家",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "xiaohongshu-operations-expert",
+    "profile": "references/profiles/XiaohongshuOperationsExpert.md",
+    "description": "以小红书运营专家视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  },
+  {
+    "id": "ZhihuStrategist",
+    "name": "知乎策略师",
+    "category": "06-ContentCreative",
+    "type": "agent",
+    "plugin": "zhihu-strategist",
+    "profile": "references/profiles/ZhihuStrategist.md",
+    "description": "以知乎策略师视角梳理资料、比较方案并检查交付；工具与权限按当前环境确认。",
+    "methodology": null,
+    "status": "catalog-only",
+    "bundle_status": "not-redistributed",
+    "members": []
+  }
+]
